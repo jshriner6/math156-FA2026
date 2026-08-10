@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+        <worksheet margin="1in" bottom="1.25cm" xml:id="sec-I-1">
+        <title>Course Motivation and <m>\S I.1</m>: Sets and Elements</title>
+        <page>
+            
+                <exercise workspace="0.5in" xml:id="xr-why-intro">
+                <title>Why? Traditional Calculus vs. Math 156</title>
+                <p>
+                    
+                </p>
+                </exercise>
+
+                <exercise workspace="0.5in" xml:id="xr-motivation-intro">
+                <title>Motivation: Sets and Elements</title>
+                <p>
+                    
+                </p>
+                </exercise>
+        
+
+                <exercise workspace="0.55in" xml:id="xr-def-set">
+                <title>Definition: Set</title>
+                    <statement>
+                        <p>
+                        A <term>set</term> is
+                        </p>
+                    </statement>
+                </exercise>
+            </page>
+
+            <page>
+                <p>
+                    The following exercises will introduce the important notation (i.e., symbols) used to to communicate
+                        sets, and the various ways we can build them.
+                </p>
+                <exercise xml:id="xr-act1">
+                <title>Activity: Sets and Elements</title>
+                <introduction>
+                    <p>
+                        The following are examples of sets. Use them to 
+                        answer the questions.
+                        <ol>
+                            <li>
+                                <p>
+                                    <m>A=\{1,2,3,4\}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>B=\{2,4,6\}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>C=\{\text{IN}, \text{CO}, \text{MI}, \text{WI}, \text{TX}\}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>D=\{4,3,2,1\}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>E=\{2,2,4,4,6,6\}</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>F=\{A,B,C,D,E\}</m>
+                                </p>
+                            </li>
+                        </ol>
+                    </p>
+                </introduction>
+                <task workspace="3in">
+                    <statement>
+                        <p>
+                            Do you think any sets are the same? Explain your reasoning.
+                        </p>
+                    </statement>
+                </task>
+                <task workspace="5in">
+                    <statement>
+                        <p>
+                            The following express TRUE statements. Write out what you think they mean using an
+                            English sentence.
+                            <ol>
+                                <li>
+                                    <p>
+                                        <m>3 \in A</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>3 \notin B</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>|C| = |F| = 5</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>A = \{1,2,3,4\} \in F</m>
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </statement>
+                </task>
+                <task workspace="2in">
+                    <statement>
+                        <p>
+                            What questions or observations do you have about sets so far?
+                        </p>
+                    </statement>
+                </task>
+                </exercise>
+            </page>
+            <page>
+                <exercise>
+                    <title>Activity: Set Builder Notation</title>
+                    
+                    
+                    <introduction>
+                        <p>
+                            For large or more complicated sets, it's not always convenient (or possible) to write out
+                            every element of the set as we did previously. To communicate these sets, we can use
+                            <term>set builder notation</term>. The following are examples of sets using set builder
+                            notation. Use them to answer the questions.
+                            <ol>
+                                <li>
+                                    <p>
+                                        <m>S_1=\{x \in A | x >2\}</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>S_2=\{x \in C | x \text{ is in the Mountain Time Zone}\}</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>S_3=\{x| x=2n \text{ for some integer } n \gt 0\}</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>S_4=\{2x | x \text{ is a positive integer} \}</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>S_5=\{x^2 | x \in B \}</m>
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </introduction>
+                
+                
+                <task workspace="1in">
+                    <statement>
+                        <p>
+                            It is true that <m>S_1 = \{3,4\}</m>. Write an English sentence that describes set builder 
+                            notation for <m>S_1</m>.
+                        </p>
+                    </statement>
+                </task>
+                <task workspace="2in">
+                    <statement>
+                        <p>
+                            For <m>S_2, S_3, S_4, S_5</m>, write out the sets explicitly, or describe what they are 
+                            in more common language. Are any sets equal?
+                        </p>
+                    </statement>
+                </task>
+                <task workspace="1in">
+                    <statement>
+                        <p>
+                            Determine if the following are TRUE or FALSE.
+                            <ol>
+                                <li>
+                                    <p>
+                                        <m>\{x \in S_3 | x \lt 10\}= \{2, 4, 6, 8\}</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>|\{x | x \text{ is an integer and } |x| \lt 2\}|= \{3\}</m>
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </statement>
+                </task>
+                    
+                </exercise>
+            </page>
+            <page>
+
+                <exercise workspace="3in">
+                    <title>Some Special Sets</title>
+                    <statement>
+                        <p>
+                          The following are commonly used sets that have special notation:  
+                        
+                        <ol>
+                            <li>
+                                <p>
+                                    <m>\Z=</m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>\N = </m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>\Q = </m>
+                                </p>
+                            </li>
+                            <li>
+                                <p>
+                                    <m>\R =</m>
+                                </p>
+                            </li>
+                        </ol>
+                        </p>
+                    </statement>
+                    
+                </exercise>
+
+                <exercise workspace="3in">
+                    <title>Practice: True or False?</title>
+                    <statement>
+                        <p>
+                            <ol>
+                                <li>
+                                    <p>
+                                        <m>-4 \in \N</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>-4 \in \Q</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>\{1,2,3,4\} =\{-1,-2,-3,-4\}</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m> |\{1,2,3,4\}| =|\{-1,-2,-3,-4\}|</m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>|S_1| \in A </m>
+                                    </p>
+                                </li>
+                                <li>
+                                    <p>
+                                        <m>6 \in \{1, \{3,6\}\}</m>
+                                    </p>
+                                </li>
+                            </ol>
+                        </p>
+                    </statement>
+                    
+                    
+                    
+                </exercise>
+            </page>
+
+
+    </worksheet>
