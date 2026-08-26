@@ -386,6 +386,231 @@ var ptx_lunr_docs = [
   "number": "8",
   "title": "Practice.",
   "body": " Practice    Let be the proposition \"It is snowing\" and be the proposition \"CSU is closed for the day\". Translate the following to English sentences.                            Use truth tables to show that is logically equivalent (i.e., has the same truth table) to .      Without using truth tables, explain why the inverse and converse of are logically equivalent.    "
+},
+{
+  "id": "sec-I-5",
+  "level": "1",
+  "url": "sec-I-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S I.5\\text{:}\\)<\/span> Predicate Logic and Quantifiers",
+  "body": " : Predicate Logic and Quantifiers    Motivation: Quantifiers        Definition: Quantifiers and Predicates        Using Quantifiers with Predicates   Many mathematical statements are formed by attaching quantifiers to predicates.  As an example, consider the sets Write down the meaning of the following logical statements:                        Exercise: Order Matters!   Pick the single true statement below:                 Negating Quantifiers   If a quantified statement is false, its negation is true. How do we negate quantifiers? Let's consider the following examples:   \"Every integer is even.\"    \"There is a real number such that .\"        Practice: Negating Quantifiers   Negate the following statements:                 "
+},
+{
+  "id": "sec-I-5-2-1",
+  "level": "2",
+  "url": "sec-I-5.html#sec-I-5-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Quantifiers.",
+  "body": " Motivation: Quantifiers      "
+},
+{
+  "id": "sec-I-5-2-2",
+  "level": "2",
+  "url": "sec-I-5.html#sec-I-5-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Quantifiers and Predicates.",
+  "body": " Definition: Quantifiers and Predicates      "
+},
+{
+  "id": "sec-I-5-2-3",
+  "level": "2",
+  "url": "sec-I-5.html#sec-I-5-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Using Quantifiers with Predicates.",
+  "body": " Using Quantifiers with Predicates   Many mathematical statements are formed by attaching quantifiers to predicates.  As an example, consider the sets Write down the meaning of the following logical statements:                    "
+},
+{
+  "id": "sec-I-5-3-1",
+  "level": "2",
+  "url": "sec-I-5.html#sec-I-5-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Exercise: Order Matters!",
+  "body": " Exercise: Order Matters!   Pick the single true statement below:               "
+},
+{
+  "id": "sec-I-5-3-2",
+  "level": "2",
+  "url": "sec-I-5.html#sec-I-5-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Negating Quantifiers.",
+  "body": " Negating Quantifiers   If a quantified statement is false, its negation is true. How do we negate quantifiers? Let's consider the following examples:   \"Every integer is even.\"    \"There is a real number such that .\"      "
+},
+{
+  "id": "sec-I-5-3-3",
+  "level": "2",
+  "url": "sec-I-5.html#sec-I-5-3-3",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Practice: Negating Quantifiers.",
+  "body": " Practice: Negating Quantifiers   Negate the following statements:               "
+},
+{
+  "id": "sec-II-1",
+  "level": "1",
+  "url": "sec-II-1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S II.1\\text{:}\\)<\/span> Connecting Elements",
+  "body": " : Connecting Elements    Motivation: Relations        Definition and Example: Relation   A relation between sets and is     Familiar Relations   The following are all binary relations on (that is, subsets of ). Write at least three elements in each relation as elements of .       Representations of Relations   We can represent relations in multiple ways. Let , and be the relation defined by \" \".       Definitions: Source, target, domain, and range   Let be a relation.     Practice: Domain and Range   Let , and be the relation . What is the domain? What is the range?     "
+},
+{
+  "id": "sec-II-1-2-1",
+  "level": "2",
+  "url": "sec-II-1.html#sec-II-1-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Relations.",
+  "body": " Motivation: Relations      "
+},
+{
+  "id": "sec-II-1-2-2",
+  "level": "2",
+  "url": "sec-II-1.html#sec-II-1-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition and Example: Relation.",
+  "body": " Definition and Example: Relation   A relation between sets and is   "
+},
+{
+  "id": "sec-II-1-2-3",
+  "level": "2",
+  "url": "sec-II-1.html#sec-II-1-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Familiar Relations.",
+  "body": " Familiar Relations   The following are all binary relations on (that is, subsets of ). Write at least three elements in each relation as elements of .   "
+},
+{
+  "id": "sec-II-1-3-1",
+  "level": "2",
+  "url": "sec-II-1.html#sec-II-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Representations of Relations.",
+  "body": " Representations of Relations   We can represent relations in multiple ways. Let , and be the relation defined by \" \".   "
+},
+{
+  "id": "sec-II-1-4-1",
+  "level": "2",
+  "url": "sec-II-1.html#sec-II-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Definitions: Source, target, domain, and range.",
+  "body": " Definitions: Source, target, domain, and range   Let be a relation.   "
+},
+{
+  "id": "sec-II-1-4-2",
+  "level": "2",
+  "url": "sec-II-1.html#sec-II-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Practice: Domain and Range.",
+  "body": " Practice: Domain and Range   Let , and be the relation . What is the domain? What is the range?   "
+},
+{
+  "id": "sec-II-2",
+  "level": "1",
+  "url": "sec-II-2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S II.2\\text{:}\\)<\/span> Complements, Converse, and Composition",
+  "body": " : Complements, Converse, and Composition    Motivation: Relations from Relations        First Examples   Let . We can define a relation on (these are both copies of the set , we are just using subscripts to distinguish copies for convenience later) by the rule \"is a parent of\". Let's explore some implied relations in this example and how we can construct them explicitly.       Practice: Complement and Converse   Let and . Let be the relation on defined by \" \".     Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      True or False:         Practice: Composition   Let , , .     Let be the relation \" \" on . Represent as a digraph.      Let be the relation \" \" on . Represent as a digraph.      Only one of the relations or makes sense. Explain why one does not, and then write the elements of the other.      "
+},
+{
+  "id": "sec-II-2-2-1",
+  "level": "2",
+  "url": "sec-II-2.html#sec-II-2-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Relations from Relations.",
+  "body": " Motivation: Relations from Relations      "
+},
+{
+  "id": "sec-II-2-2-2",
+  "level": "2",
+  "url": "sec-II-2.html#sec-II-2-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "First Examples.",
+  "body": " First Examples   Let . We can define a relation on (these are both copies of the set , we are just using subscripts to distinguish copies for convenience later) by the rule \"is a parent of\". Let's explore some implied relations in this example and how we can construct them explicitly.   "
+},
+{
+  "id": "sec-II-2-3-1",
+  "level": "2",
+  "url": "sec-II-2.html#sec-II-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Practice: Complement and Converse.",
+  "body": " Practice: Complement and Converse   Let and . Let be the relation on defined by \" \".     Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      True or False:     "
+},
+{
+  "id": "sec-II-2-4-1",
+  "level": "2",
+  "url": "sec-II-2.html#sec-II-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Practice: Composition.",
+  "body": " Practice: Composition   Let , , .     Let be the relation \" \" on . Represent as a digraph.      Let be the relation \" \" on . Represent as a digraph.      Only one of the relations or makes sense. Explain why one does not, and then write the elements of the other.    "
+},
+{
+  "id": "sec-II-3",
+  "level": "1",
+  "url": "sec-II-3.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S II.3\\text{:}\\)<\/span> Properties of Relations",
+  "body": " : Properties of Relations    Motivation: Properties of Binary Relations        Example: Equals   We likely don't think twice about writing    .     if we know that .     if we also know that .        Definitions   Let be a binary relation on (that is, ).     Exercise: Non-examples   For each property defined above, think of a familiar relation (it doesn't have to be a mathematical operation!) which does not satisfy that property.        For each of the following binary relations, determine which of the four properties we've defined are true.                                        "
+},
+{
+  "id": "sec-II-3-2-1",
+  "level": "2",
+  "url": "sec-II-3.html#sec-II-3-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Properties of Binary Relations.",
+  "body": " Motivation: Properties of Binary Relations      "
+},
+{
+  "id": "sec-II-3-2-2",
+  "level": "2",
+  "url": "sec-II-3.html#sec-II-3-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Example: Equals.",
+  "body": " Example: Equals   We likely don't think twice about writing    .     if we know that .     if we also know that .      "
+},
+{
+  "id": "sec-II-3-2-3",
+  "level": "2",
+  "url": "sec-II-3.html#sec-II-3-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Definitions.",
+  "body": " Definitions   Let be a binary relation on (that is, ).   "
+},
+{
+  "id": "sec-II-3-2-4",
+  "level": "2",
+  "url": "sec-II-3.html#sec-II-3-2-4",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Exercise: Non-examples.",
+  "body": " Exercise: Non-examples   For each property defined above, think of a familiar relation (it doesn't have to be a mathematical operation!) which does not satisfy that property.   "
+},
+{
+  "id": "sec-II-3-3-1",
+  "level": "2",
+  "url": "sec-II-3.html#sec-II-3-3-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "",
+  "body": "  For each of the following binary relations, determine which of the four properties we've defined are true.                                      "
 }
 ]
 
