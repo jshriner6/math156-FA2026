@@ -27,7 +27,7 @@
                     <title>Familiar Relations</title>
                     <statement>
                         <p>
-                            The following are all relations on <m>\R \times \R</m>. Write at least three elements in each
+                            The following are all binary relations on <m>\R</m> (that is, subsets of <m>\R\times \R</m>). Write at least three elements in each
                             relation as elements of <m>\R \times \R</m>.
                         </p>
                     </statement>

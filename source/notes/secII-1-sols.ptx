@@ -64,7 +64,7 @@
                     <title>Familiar Relations</title>
                     <statement>
                         <p>
-                            The following are all relations on <m>\R \times \R</m>. Write at least three elements in each
+                            The following are all relations on <m>\R</m> (that is, subsets of <m>\R\times \R</m>). Write at least three elements in each
                             relation as elements of <m>\R \times \R</m>.
                         </p>
                     </statement>
@@ -160,7 +160,7 @@
                             </ol>
                         </p>
                         <p>
-                            If our relation is on <m>\R \times \R</m>, there is another familiar representation as a 
+                            If our relation is on <m>\R</m>, there is another familiar representation as a 
                             graph in the coordinate plane.
                         </p>
                         <p>

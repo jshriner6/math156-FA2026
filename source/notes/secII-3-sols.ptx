@@ -75,7 +75,7 @@
                     <title>Definitions</title>
                     <statement>
                         <p>
-                            Let <m>R</m> be a binary relation on <m>A \times A</m>.
+                            Let <m>R</m> be a binary relation on <m>A</m> (that is, <m>R \subset A \times A</m>).
                         </p>
                     </statement>
                     <solution>
@@ -216,7 +216,9 @@
                         </statement>
                         <solution>
                             <p>
-                                This relation does not satisfy any of the properties.
+                                This relation does not satisfy any of the properties. View 
+                                <url href="https://www.desmos.com/calculator/xg8i15wwqh">the graph in Desmos</url>
+                                to help verify this.
                             </p>
                         </solution>
                     </task>

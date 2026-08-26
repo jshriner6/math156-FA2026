@@ -46,7 +46,7 @@
                     <title>Definitions</title>
                     <statement>
                         <p>
-                            Let <m>R</m> be a binary relation on <m>A \times A</m>.
+                            Let <m>R</m> be a binary relation on <m>A</m> (that is, <m>R \subset A \times A</m>).
                         </p>
                     </statement>
                     
