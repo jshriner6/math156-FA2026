@@ -25,7 +25,7 @@
         You are encouraged to print or download them to a device to be used during class.
         </p>
       </introduction>
-
+    <!-- WEEK 1 -->
       <!--<xi:include href="./notes/secI-1.ptx"/> -->
       <xi:include href="./notes/secI-1-sols.ptx"/> 
 
@@ -36,6 +36,21 @@
       <!--<xi:include href="./notes/secI-4-sols.ptx"/> -->
 
 
+      <!-- WEEK 2 -->
+      <xi:include href="./notes/secI-5.ptx"/>
+      <xi:include href="./notes/secI-5-sols.ptx"/> 
+
+      <xi:include href="./notes/secII-1.ptx"/>
+      <xi:include href="./notes/secII-1-sols.ptx"/> 
+
+      <xi:include href="./notes/secII-2.ptx"/>
+      <xi:include href="./notes/secII-2-sols.ptx"/> 
+
+      <xi:include href="./notes/secII-3.ptx"/>
+      <xi:include href="./notes/secII-3-sols.ptx"/> 
+
+
+      <!-- WEEK 3 -->
      
       <!-- etc. -->
 

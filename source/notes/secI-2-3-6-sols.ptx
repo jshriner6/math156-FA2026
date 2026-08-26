@@ -480,7 +480,7 @@
                                 \{1,2\} = \{2,1\}
                             </md>.
                             If we actually want to communicate "1 in the first position and 2 in the second position", 
-                            we can write <m>\{1, \{1,2\}\}</m> as a set, which is more commonly written as the ordered
+                            we can write <m>\{\{1\}, \{1,2\}\}</m> as a set, which is more commonly written as the ordered
                             pair <m>(1,2)</m>. Parentheses imply order (e.g., <m>(x,y)</m> in the Cartesian plane).
                             
                         </p>
