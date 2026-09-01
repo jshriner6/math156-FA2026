@@ -451,67 +451,67 @@ var ptx_lunr_docs = [
   "body": " Practice: Negating Quantifiers   Negate the following statements:                               "
 },
 {
-  "id": "sec-II-1",
+  "id": "sec-II-1-sols",
   "level": "1",
-  "url": "sec-II-1.html",
+  "url": "sec-II-1-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S II.1\\text{:}\\)<\/span> Connecting Elements",
-  "body": " : Connecting Elements    Motivation: Relations        Definition and Example: Relation   A relation between sets and is     Familiar Relations   The following are all binary relations on (that is, subsets of ). Write at least three elements in each relation as elements of .       Representations of Relations   We can represent relations in multiple ways. Let , and be the relation defined by \" \".       Definitions: Source, target, domain, and range   Let be a relation.     Practice: Domain and Range   Let , and be the relation . What is the domain? What is the range?     "
+  "title": "<span class=\"process-math\">\\(\\S II.1\\text{:}\\)<\/span> Connecting Elements (Complete)",
+  "body": " : Connecting Elements (Complete)    Motivation: Relations       Now that we know a lot about sets and set notation, we can talk about how sets can interact in meaningful ways. A fundamental interaction is called a relation .     Definition and Example: Relation   A relation between sets and is    is a subset . We often indicate elements by or .  Consider the sets and of prime numbers. We'll define a relation on by saying if divides . Then we can note that         ( does not divide )     ( does not divide )     ( )        Familiar Relations   The following are all relations on (that is, subsets of ). Write at least three elements in each relation as elements of .        . Examples are .     . Examples are .     . Examples are .          Representations of Relations   We can represent relations in multiple ways. Let , and be the relation defined by \" \".    We can represent as   a subset of .     a table. We can represent as                                  directed graphs. You can see directed graphs being used in a similar example in Figure 1 of section II.1 .     If our relation is on , there is another familiar representation as a graph in the coordinate plane.  For example, the relation is just the equation . We can view this relation as the graph of .  A similar example is the relation . This relation is viewed as the graph of a circle of radius one .       Definitions: Source, target, domain, and range       Let be a relation.  The set is called the source of , and the set is called the target of .  The set is the domain of .  The set is the range of .     Practice: Domain and Range   Let , and be the relation . What is the domain? What is the range?    The domain of is , while the range of is .     "
 },
 {
-  "id": "sec-II-1-2-1",
+  "id": "sec-II-1-sols-2-1",
   "level": "2",
-  "url": "sec-II-1.html#sec-II-1-2-1",
+  "url": "sec-II-1-sols.html#sec-II-1-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Relations.",
-  "body": " Motivation: Relations      "
+  "body": " Motivation: Relations       Now that we know a lot about sets and set notation, we can talk about how sets can interact in meaningful ways. A fundamental interaction is called a relation .   "
 },
 {
-  "id": "sec-II-1-2-2",
+  "id": "sec-II-1-sols-2-2",
   "level": "2",
-  "url": "sec-II-1.html#sec-II-1-2-2",
+  "url": "sec-II-1-sols.html#sec-II-1-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Definition and Example: Relation.",
-  "body": " Definition and Example: Relation   A relation between sets and is   "
+  "body": " Definition and Example: Relation   A relation between sets and is    is a subset . We often indicate elements by or .  Consider the sets and of prime numbers. We'll define a relation on by saying if divides . Then we can note that         ( does not divide )     ( does not divide )     ( )      "
 },
 {
-  "id": "sec-II-1-2-3",
+  "id": "sec-II-1-sols-2-3",
   "level": "2",
-  "url": "sec-II-1.html#sec-II-1-2-3",
+  "url": "sec-II-1-sols.html#sec-II-1-sols-2-3",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Familiar Relations.",
-  "body": " Familiar Relations   The following are all binary relations on (that is, subsets of ). Write at least three elements in each relation as elements of .   "
+  "body": " Familiar Relations   The following are all relations on (that is, subsets of ). Write at least three elements in each relation as elements of .        . Examples are .     . Examples are .     . Examples are .      "
 },
 {
-  "id": "sec-II-1-3-1",
+  "id": "sec-II-1-sols-3-1",
   "level": "2",
-  "url": "sec-II-1.html#sec-II-1-3-1",
+  "url": "sec-II-1-sols.html#sec-II-1-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Representations of Relations.",
-  "body": " Representations of Relations   We can represent relations in multiple ways. Let , and be the relation defined by \" \".   "
+  "body": " Representations of Relations   We can represent relations in multiple ways. Let , and be the relation defined by \" \".    We can represent as   a subset of .     a table. We can represent as                                  directed graphs. You can see directed graphs being used in a similar example in Figure 1 of section II.1 .     If our relation is on , there is another familiar representation as a graph in the coordinate plane.  For example, the relation is just the equation . We can view this relation as the graph of .  A similar example is the relation . This relation is viewed as the graph of a circle of radius one .   "
 },
 {
-  "id": "sec-II-1-4-1",
+  "id": "sec-II-1-sols-4-1",
   "level": "2",
-  "url": "sec-II-1.html#sec-II-1-4-1",
+  "url": "sec-II-1-sols.html#sec-II-1-sols-4-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "Definitions: Source, target, domain, and range.",
-  "body": " Definitions: Source, target, domain, and range   Let be a relation.   "
+  "body": " Definitions: Source, target, domain, and range       Let be a relation.  The set is called the source of , and the set is called the target of .  The set is the domain of .  The set is the range of .   "
 },
 {
-  "id": "sec-II-1-4-2",
+  "id": "sec-II-1-sols-4-2",
   "level": "2",
-  "url": "sec-II-1.html#sec-II-1-4-2",
+  "url": "sec-II-1-sols.html#sec-II-1-sols-4-2",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "Practice: Domain and Range.",
-  "body": " Practice: Domain and Range   Let , and be the relation . What is the domain? What is the range?   "
+  "body": " Practice: Domain and Range   Let , and be the relation . What is the domain? What is the range?    The domain of is , while the range of is .   "
 },
 {
   "id": "sec-II-2",
@@ -520,7 +520,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "<span class=\"process-math\">\\(\\S II.2\\text{:}\\)<\/span> Complements, Converse, and Composition",
-  "body": " : Complements, Converse, and Composition    Motivation: Relations from Relations        First Examples   Let . We can define a relation on (these are both copies of the set , we are just using subscripts to distinguish copies for convenience later) by the rule \"is a parent of\". Let's explore some implied relations in this example and how we can construct them explicitly.       Practice: Complement and Converse   Let and . Let be the relation on defined by \" \".     Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      True or False:         Practice: Composition   Let , , .     Let be the relation \" \" on . Represent as a digraph.      Let be the relation \" \" on . Represent as a digraph.      Only one of the relations or makes sense. Explain why one does not, and then write the elements of the other.      "
+  "body": " : Complements, Converse, and Composition    Motivation: Relations from Relations        First Examples   Let . We can define a relation (these are both copies of the set , we are just using subscripts to distinguish copies for convenience later) by the rule \"is a parent of\". Let's explore some implied relations in this example and how we can construct them explicitly.       Practice: Complement and Converse   Let and . Let be the relation on defined by \" \".     Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      Without building , describe what you think is.      Write out all elements of to either confirm or refine your previous answer.      True or False:         Practice: Composition   Let , , .     Let be the relation \" \" on . Represent as a digraph.      Let be the relation \" \" on . Represent as a digraph.      Only one of the relations or makes sense. Explain why one does not, and then write the elements of the other.      "
 },
 {
   "id": "sec-II-2-2-1",
@@ -538,7 +538,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "First Examples.",
-  "body": " First Examples   Let . We can define a relation on (these are both copies of the set , we are just using subscripts to distinguish copies for convenience later) by the rule \"is a parent of\". Let's explore some implied relations in this example and how we can construct them explicitly.   "
+  "body": " First Examples   Let . We can define a relation (these are both copies of the set , we are just using subscripts to distinguish copies for convenience later) by the rule \"is a parent of\". Let's explore some implied relations in this example and how we can construct them explicitly.   "
 },
 {
   "id": "sec-II-2-3-1",
@@ -611,6 +611,168 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "",
   "body": "  For each of the following binary relations, determine which of the four properties we've defined are true.                                      "
+},
+{
+  "id": "sec-II-4",
+  "level": "1",
+  "url": "sec-II-4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S II.4\\text{:}\\)<\/span> Equivalence Relations and Partitions",
+  "body": " : Equivalence Relations and Partitions    Motivation: Equivalence Relations        Definition: Equivalence Relation   A binary relation on ( ) is an equivalence relation if     Example: Equivalence Relations   Let be the relation on defined by if and only if is even.       Observations: Equivalence Relations        Partitions   Let and the partition of given by .       Practice: Equivalence Relations    Let be the relation on given by if and only if divides .   Verify is an equivalence relation.    How many equivalence classes are there? Give a representative for each.         Let be a set, and the relation on given by if and only if . Is an equivalence relation?      A graph is a set of vertices (or nodes) along with a set of edges between those vertices. For example, the following are two graphs with vertices and edge.   Two graphs with three vertices and one edge. In one graph the edge is between vertex 1 and 2. In the other the edge is between vertex 1 and 3.   We'd like to consider two graphs equal if we can re-label the vertices of one graph to get the other. For example, this can be done with the two graphs shown above. Determine the equivalence classes for this equivalence relation on the set of all graphs with vertices.      "
+},
+{
+  "id": "sec-II-4-2-1",
+  "level": "2",
+  "url": "sec-II-4.html#sec-II-4-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Equivalence Relations.",
+  "body": " Motivation: Equivalence Relations      "
+},
+{
+  "id": "sec-II-4-2-2",
+  "level": "2",
+  "url": "sec-II-4.html#sec-II-4-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Equivalence Relation.",
+  "body": " Definition: Equivalence Relation   A binary relation on ( ) is an equivalence relation if   "
+},
+{
+  "id": "sec-II-4-2-3",
+  "level": "2",
+  "url": "sec-II-4.html#sec-II-4-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Example: Equivalence Relations.",
+  "body": " Example: Equivalence Relations   Let be the relation on defined by if and only if is even.   "
+},
+{
+  "id": "sec-II-4-3-1",
+  "level": "2",
+  "url": "sec-II-4.html#sec-II-4-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Observations: Equivalence Relations.",
+  "body": " Observations: Equivalence Relations      "
+},
+{
+  "id": "sec-II-4-3-2",
+  "level": "2",
+  "url": "sec-II-4.html#sec-II-4-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Partitions.",
+  "body": " Partitions   Let and the partition of given by .   "
+},
+{
+  "id": "sec-II-4-4-1",
+  "level": "2",
+  "url": "sec-II-4.html#sec-II-4-4-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Practice: Equivalence Relations.",
+  "body": " Practice: Equivalence Relations    Let be the relation on given by if and only if divides .   Verify is an equivalence relation.    How many equivalence classes are there? Give a representative for each.         Let be a set, and the relation on given by if and only if . Is an equivalence relation?      A graph is a set of vertices (or nodes) along with a set of edges between those vertices. For example, the following are two graphs with vertices and edge.   Two graphs with three vertices and one edge. In one graph the edge is between vertex 1 and 2. In the other the edge is between vertex 1 and 3.   We'd like to consider two graphs equal if we can re-label the vertices of one graph to get the other. For example, this can be done with the two graphs shown above. Determine the equivalence classes for this equivalence relation on the set of all graphs with vertices.    "
+},
+{
+  "id": "sec-II-5",
+  "level": "1",
+  "url": "sec-II-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S II.5\\text{:}\\)<\/span> Constructing <span class=\"process-math\">\\(\\Z\\)<\/span> and <span class=\"process-math\">\\(\\Q\\)<\/span>",
+  "body": " : Constructing and    Motivation: Constructing Common Sets        Constructing   Define , and let be the relation on defined by .     What element(s) are related to ?      Write down at least other elements of .      What integer do you think is meant to represent?      Explain why you think the relation was defined the way that it was.      Verify that is an equivalence relation.      How can we use the equivalence relation to define elements of ?        Constructing   Let be the relation on defined by .     What element(s) are related to ?      Write down at least other elements of .      What rational number do you think is meant to represent?      Explain why you think the relation was defined the way that it was.      Verify that is an equivalence relation.      How can we use the equivalence relation to define elements of ?      "
+},
+{
+  "id": "sec-II-5-2-1",
+  "level": "2",
+  "url": "sec-II-5.html#sec-II-5-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Constructing Common Sets.",
+  "body": " Motivation: Constructing Common Sets      "
+},
+{
+  "id": "sec-II-5-2-2",
+  "level": "2",
+  "url": "sec-II-5.html#sec-II-5-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Constructing <span class=\"process-math\">\\(\\Z\\)<\/span>.",
+  "body": " Constructing   Define , and let be the relation on defined by .     What element(s) are related to ?      Write down at least other elements of .      What integer do you think is meant to represent?      Explain why you think the relation was defined the way that it was.      Verify that is an equivalence relation.      How can we use the equivalence relation to define elements of ?    "
+},
+{
+  "id": "sec-II-5-3-1",
+  "level": "2",
+  "url": "sec-II-5.html#sec-II-5-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Constructing <span class=\"process-math\">\\(\\Q\\)<\/span>.",
+  "body": " Constructing   Let be the relation on defined by .     What element(s) are related to ?      Write down at least other elements of .      What rational number do you think is meant to represent?      Explain why you think the relation was defined the way that it was.      Verify that is an equivalence relation.      How can we use the equivalence relation to define elements of ?    "
+},
+{
+  "id": "sec-II-6-1",
+  "level": "1",
+  "url": "sec-II-6-1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S II.6\\text{:}\\)<\/span> Remainders and Modulo",
+  "body": " : Remainders and Modulo    Motivation: Modulo        Fact: Euclid's Division Lemma   For with (we will take ), there is a unique with such that .     Definition: Modulo Equivalence Relation   Fix with . The relation on is defined as       Notation: Modulo Relation        Example: Congruence Modulo          Practice: Congruence Classes   For each value of below, separate the integers into congruence classes mod . Then determine all the elements of .                                 "
+},
+{
+  "id": "sec-II-6-1-2-1",
+  "level": "2",
+  "url": "sec-II-6-1.html#sec-II-6-1-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Modulo.",
+  "body": " Motivation: Modulo      "
+},
+{
+  "id": "sec-II-6-1-2-2",
+  "level": "2",
+  "url": "sec-II-6-1.html#sec-II-6-1-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Fact: Euclid’s Division Lemma.",
+  "body": " Fact: Euclid's Division Lemma   For with (we will take ), there is a unique with such that .   "
+},
+{
+  "id": "sec-II-6-1-2-3",
+  "level": "2",
+  "url": "sec-II-6-1.html#sec-II-6-1-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Definition: Modulo Equivalence Relation.",
+  "body": " Definition: Modulo Equivalence Relation   Fix with . The relation on is defined as   "
+},
+{
+  "id": "sec-II-6-1-3-1",
+  "level": "2",
+  "url": "sec-II-6-1.html#sec-II-6-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Notation: Modulo Relation.",
+  "body": " Notation: Modulo Relation      "
+},
+{
+  "id": "sec-II-6-1-3-2",
+  "level": "2",
+  "url": "sec-II-6-1.html#sec-II-6-1-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Example: Congruence Modulo <span class=\"process-math\">\\(3\\)<\/span>.",
+  "body": " Example: Congruence Modulo      "
+},
+{
+  "id": "sec-II-6-1-4-1",
+  "level": "2",
+  "url": "sec-II-6-1.html#sec-II-6-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Practice: Congruence Classes.",
+  "body": " Practice: Congruence Classes   For each value of below, separate the integers into congruence classes mod . Then determine all the elements of .                               "
 }
 ]
 
