@@ -23,7 +23,7 @@
                     <title>First Examples</title>
                     <statement>
                         <p>
-                            Let <m>S= \{\text{all people}\}</m>. We can define a relation <m>R</m> on <m>S_1 \times S_2</m>
+                            Let <m>S= \{\text{all people}\}</m>. We can define a relation <m>R \subset S_1 \times S_2</m>
                             (these are both copies of the set <m>S</m>, we are just using subscripts to distinguish copies
                             for convenience later) by the rule "is a parent of". Let's explore some implied relations 
                             in this example and how we can construct them explicitly.
