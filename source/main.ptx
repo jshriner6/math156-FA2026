@@ -43,8 +43,8 @@
       <!-- <xi:include href="./notes/secII-1.ptx"/> -->
      <xi:include href="./notes/secII-1-sols.ptx"/> 
 
-      <xi:include href="./notes/secII-2.ptx"/>
-     <!-- <xi:include href="./notes/secII-2-sols.ptx"/> -->
+      <!--<xi:include href="./notes/secII-2.ptx"/>-->
+     <xi:include href="./notes/secII-2-sols.ptx"/> 
 
       <xi:include href="./notes/secII-3.ptx"/>
      <!-- <xi:include href="./notes/secII-3-sols.ptx"/> -->

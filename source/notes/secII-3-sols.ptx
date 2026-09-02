@@ -12,7 +12,7 @@
                     <solution>
                         <p>
                             Relations from sets to themselves are very common (think <m>\lt, \gt, =, \subset</m>) and are 
-                            called <term>binary relations</term>. There are many properties we can use to describe how these 
+                            called <term>binary relations on the set</term>. There are many properties we can use to describe how these 
                             relations behave, and we will identify some the most common in this section.
                         </p>
                     </solution>
