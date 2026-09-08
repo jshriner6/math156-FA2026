@@ -559,121 +559,121 @@ var ptx_lunr_docs = [
   "body": " Practice: Composition   Let , , .     Let be the relation \" \" from to . Represent as a digraph.    See notes from class, or a similar example in Figure 4 of section II.2 .      Let be the relation \" \" from to . Represent as a digraph.    See notes from class, or a similar example in Figure 4 of section II.2 .      Only one of the relations or makes sense. Explain why one does not, and then write the elements of the other.     and . Therefore, does not make sense because we'd be trying to take elements of and \"connect\" them with elements in , but and are different sets.   does make sense and its elements are .    "
 },
 {
-  "id": "sec-II-3",
+  "id": "sec-II-3-sols",
   "level": "1",
-  "url": "sec-II-3.html",
+  "url": "sec-II-3-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S II.3\\text{:}\\)<\/span> Properties of Relations",
-  "body": " : Properties of Relations    Motivation: Properties of Binary Relations        Example: Equals   We likely don't think twice about writing    .     if we know that .     if we also know that .        Definitions   Let be a binary relation on (that is, ).     Exercise: Non-examples   For each property defined above, think of a familiar relation (it doesn't have to be a mathematical operation!) which does not satisfy that property.        For each of the following binary relations, determine which of the four properties we've defined are true.                                        "
+  "title": "<span class=\"process-math\">\\(\\S II.3\\text{:}\\)<\/span> Properties of Relations (Complete)",
+  "body": " : Properties of Relations (Complete)    Motivation: Properties of Binary Relations       Relations from sets to themselves are very common (think ) and are called binary relations on the set . There are many properties we can use to describe how these relations behave, and we will identify some the most common in this section.     Example: Equals   We likely don't think twice about writing    .     if we know that .     if we also know that .       These are examples of three important properties that relations may (or may not) have:   Reflexive (every element is related to itself)    Symmetric (if is related to then is related to )    Transitive (if is related to and is related to , then is related to )        Definitions   Let be a binary relation on (that is, ).        is reflexive if .     is symmetric if .     is antisymmetric if .     is transitive if .        Exercise: Non-examples   For each property defined above, think of a familiar relation (it doesn't have to be a mathematical operation!) which does not satisfy that property.                 \"Is a brother of\" for the set of all people    \"Is perpendicular to\" for the set of all lines in the coordinate plane           For each of the following binary relations, determine which of the four properties we've defined are true.          Antisymmetric, Transitive           Reflexive, Antisymmetric, Transitive           Reflexive, Antisymmetric, Transitive           Symmetric           This relation does not satisfy any of the properties. View the graph in Desmos to help verify this.      "
 },
 {
-  "id": "sec-II-3-2-1",
+  "id": "sec-II-3-sols-2-1",
   "level": "2",
-  "url": "sec-II-3.html#sec-II-3-2-1",
+  "url": "sec-II-3-sols.html#sec-II-3-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Properties of Binary Relations.",
-  "body": " Motivation: Properties of Binary Relations      "
+  "body": " Motivation: Properties of Binary Relations       Relations from sets to themselves are very common (think ) and are called binary relations on the set . There are many properties we can use to describe how these relations behave, and we will identify some the most common in this section.   "
 },
 {
-  "id": "sec-II-3-2-2",
+  "id": "sec-II-3-sols-2-2",
   "level": "2",
-  "url": "sec-II-3.html#sec-II-3-2-2",
+  "url": "sec-II-3-sols.html#sec-II-3-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Example: Equals.",
-  "body": " Example: Equals   We likely don't think twice about writing    .     if we know that .     if we also know that .      "
+  "body": " Example: Equals   We likely don't think twice about writing    .     if we know that .     if we also know that .       These are examples of three important properties that relations may (or may not) have:   Reflexive (every element is related to itself)    Symmetric (if is related to then is related to )    Transitive (if is related to and is related to , then is related to )      "
 },
 {
-  "id": "sec-II-3-2-3",
+  "id": "sec-II-3-sols-2-3",
   "level": "2",
-  "url": "sec-II-3.html#sec-II-3-2-3",
+  "url": "sec-II-3-sols.html#sec-II-3-sols-2-3",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Definitions.",
-  "body": " Definitions   Let be a binary relation on (that is, ).   "
+  "body": " Definitions   Let be a binary relation on (that is, ).        is reflexive if .     is symmetric if .     is antisymmetric if .     is transitive if .      "
 },
 {
-  "id": "sec-II-3-2-4",
+  "id": "sec-II-3-sols-2-4",
   "level": "2",
-  "url": "sec-II-3.html#sec-II-3-2-4",
+  "url": "sec-II-3-sols.html#sec-II-3-sols-2-4",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Exercise: Non-examples.",
-  "body": " Exercise: Non-examples   For each property defined above, think of a familiar relation (it doesn't have to be a mathematical operation!) which does not satisfy that property.   "
+  "body": " Exercise: Non-examples   For each property defined above, think of a familiar relation (it doesn't have to be a mathematical operation!) which does not satisfy that property.                 \"Is a brother of\" for the set of all people    \"Is perpendicular to\" for the set of all lines in the coordinate plane      "
 },
 {
-  "id": "sec-II-3-3-1",
+  "id": "sec-II-3-sols-3-1",
   "level": "2",
-  "url": "sec-II-3.html#sec-II-3-3-1",
+  "url": "sec-II-3-sols.html#sec-II-3-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "",
-  "body": "  For each of the following binary relations, determine which of the four properties we've defined are true.                                      "
+  "body": "  For each of the following binary relations, determine which of the four properties we've defined are true.          Antisymmetric, Transitive           Reflexive, Antisymmetric, Transitive           Reflexive, Antisymmetric, Transitive           Symmetric           This relation does not satisfy any of the properties. View the graph in Desmos to help verify this.    "
 },
 {
-  "id": "sec-II-4",
+  "id": "sec-II-4-sols",
   "level": "1",
-  "url": "sec-II-4.html",
+  "url": "sec-II-4-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S II.4\\text{:}\\)<\/span> Equivalence Relations and Partitions",
-  "body": " : Equivalence Relations and Partitions    Motivation: Equivalence Relations        Definition: Equivalence Relation   A binary relation on ( ) is an equivalence relation if     Example: Equivalence Relations   Let be the relation on defined by if and only if is even.       Observations: Equivalence Relations        Partitions   Let and the partition of given by .       Practice: Equivalence Relations    Let be the relation on given by if and only if divides .   Verify is an equivalence relation.    How many equivalence classes are there? Give a representative for each.         Let be a set, and the relation on given by if and only if . Is an equivalence relation?      A graph is a set of vertices (or nodes) along with a set of edges between those vertices. For example, the following are two graphs with vertices and edge.   Two graphs with three vertices and one edge. In one graph the edge is between vertex 1 and 2. In the other the edge is between vertex 1 and 3.   We'd like to consider two graphs equal if we can re-label the vertices of one graph to get the other. For example, this can be done with the two graphs shown above. Determine the equivalence classes for this equivalence relation on the set of all graphs with vertices.      "
+  "title": "<span class=\"process-math\">\\(\\S II.4\\text{:}\\)<\/span> Equivalence Relations and Partitions (Complete)",
+  "body": " : Equivalence Relations and Partitions (Complete)    Motivation: Equivalence Relations       There are many cases when it's desirable to \"loosen\" our concept of equality. For example, in most contexts we accept the equality even though the two sides of the equality contain different looking symbols. This is captured in the concept of an equivalence relation .     Definition: Equivalence Relation   A binary relation on ( ) is an equivalence relation if    it is relexive, symmetric, and transitive.     Example: Equivalence Relations   Let be the relation on defined by if and only if is even.    This is an equivalence relation because   It is reflexive: , which is even.    It is symmetric: If is even, then is even.    It is transitive: If and are even, then is even.          Observations: Equivalence Relations          Given , we can define the equivalence class containing : . We call a representative for the equivalence class.  In our previous example, there are two equivalence classes:    , which is the set of even integers.     , which is the set of odd integers.       Every integer is in an equivalence class, and the intersection of different equivalence classes is empty. This is called a partition of the integers.  In some sense, equivalence relations on a set are exactly partitions of that set:   Given an equivalence relation, the equivalence classes form a partition (as in the integer example).    Given a partition, we can define an equivalence relation (see the next example).           Partitions   Let and the partition of given by .    Define as if and only if and are in the same subset in the partition . Then verify that is reflexive, symmetric, and transitive (and thus an equivalence relation).       Practice: Equivalence Relations    Let be the relation on given by if and only if divides .   Verify is an equivalence relation.    How many equivalence classes are there? Give a representative for each.        is reflexive because divides . is symmetric because if divides , then divides . is transitive because if divides and , then divides .  There are three equivalence classes: .      Let be a set, and the relation on given by if and only if . Is an equivalence relation?    Yes, this is an equivalence relation.      A graph is a set of vertices (or nodes) along with a set of edges between those vertices. For example, the following are two graphs with vertices and edge.   Two graphs with three vertices and one edge. In one graph the edge is between vertex 1 and 2. In the other the edge is between vertex 1 and 3.   We'd like to consider two graphs equal if we can re-label the vertices of one graph to get the other. For example, this can be done with the two graphs shown above. Determine the equivalence classes for this equivalence relation on the set of all graphs with vertices.    See the example in the textbook at the end of section II.4 .      "
 },
 {
-  "id": "sec-II-4-2-1",
+  "id": "sec-II-4-sols-2-1",
   "level": "2",
-  "url": "sec-II-4.html#sec-II-4-2-1",
+  "url": "sec-II-4-sols.html#sec-II-4-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Equivalence Relations.",
-  "body": " Motivation: Equivalence Relations      "
+  "body": " Motivation: Equivalence Relations       There are many cases when it's desirable to \"loosen\" our concept of equality. For example, in most contexts we accept the equality even though the two sides of the equality contain different looking symbols. This is captured in the concept of an equivalence relation .   "
 },
 {
-  "id": "sec-II-4-2-2",
+  "id": "sec-II-4-sols-2-2",
   "level": "2",
-  "url": "sec-II-4.html#sec-II-4-2-2",
+  "url": "sec-II-4-sols.html#sec-II-4-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Definition: Equivalence Relation.",
-  "body": " Definition: Equivalence Relation   A binary relation on ( ) is an equivalence relation if   "
+  "body": " Definition: Equivalence Relation   A binary relation on ( ) is an equivalence relation if    it is relexive, symmetric, and transitive.   "
 },
 {
-  "id": "sec-II-4-2-3",
+  "id": "sec-II-4-sols-2-3",
   "level": "2",
-  "url": "sec-II-4.html#sec-II-4-2-3",
+  "url": "sec-II-4-sols.html#sec-II-4-sols-2-3",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Example: Equivalence Relations.",
-  "body": " Example: Equivalence Relations   Let be the relation on defined by if and only if is even.   "
+  "body": " Example: Equivalence Relations   Let be the relation on defined by if and only if is even.    This is an equivalence relation because   It is reflexive: , which is even.    It is symmetric: If is even, then is even.    It is transitive: If and are even, then is even.      "
 },
 {
-  "id": "sec-II-4-3-1",
+  "id": "sec-II-4-sols-3-1",
   "level": "2",
-  "url": "sec-II-4.html#sec-II-4-3-1",
+  "url": "sec-II-4-sols.html#sec-II-4-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Observations: Equivalence Relations.",
-  "body": " Observations: Equivalence Relations      "
+  "body": " Observations: Equivalence Relations          Given , we can define the equivalence class containing : . We call a representative for the equivalence class.  In our previous example, there are two equivalence classes:    , which is the set of even integers.     , which is the set of odd integers.       Every integer is in an equivalence class, and the intersection of different equivalence classes is empty. This is called a partition of the integers.  In some sense, equivalence relations on a set are exactly partitions of that set:   Given an equivalence relation, the equivalence classes form a partition (as in the integer example).    Given a partition, we can define an equivalence relation (see the next example).         "
 },
 {
-  "id": "sec-II-4-3-2",
+  "id": "sec-II-4-sols-3-2",
   "level": "2",
-  "url": "sec-II-4.html#sec-II-4-3-2",
+  "url": "sec-II-4-sols.html#sec-II-4-sols-3-2",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "Partitions.",
-  "body": " Partitions   Let and the partition of given by .   "
+  "body": " Partitions   Let and the partition of given by .    Define as if and only if and are in the same subset in the partition . Then verify that is reflexive, symmetric, and transitive (and thus an equivalence relation).   "
 },
 {
-  "id": "sec-II-4-4-1",
+  "id": "sec-II-4-sols-4-1",
   "level": "2",
-  "url": "sec-II-4.html#sec-II-4-4-1",
+  "url": "sec-II-4-sols.html#sec-II-4-sols-4-1",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "Practice: Equivalence Relations.",
-  "body": " Practice: Equivalence Relations    Let be the relation on given by if and only if divides .   Verify is an equivalence relation.    How many equivalence classes are there? Give a representative for each.         Let be a set, and the relation on given by if and only if . Is an equivalence relation?      A graph is a set of vertices (or nodes) along with a set of edges between those vertices. For example, the following are two graphs with vertices and edge.   Two graphs with three vertices and one edge. In one graph the edge is between vertex 1 and 2. In the other the edge is between vertex 1 and 3.   We'd like to consider two graphs equal if we can re-label the vertices of one graph to get the other. For example, this can be done with the two graphs shown above. Determine the equivalence classes for this equivalence relation on the set of all graphs with vertices.    "
+  "body": " Practice: Equivalence Relations    Let be the relation on given by if and only if divides .   Verify is an equivalence relation.    How many equivalence classes are there? Give a representative for each.        is reflexive because divides . is symmetric because if divides , then divides . is transitive because if divides and , then divides .  There are three equivalence classes: .      Let be a set, and the relation on given by if and only if . Is an equivalence relation?    Yes, this is an equivalence relation.      A graph is a set of vertices (or nodes) along with a set of edges between those vertices. For example, the following are two graphs with vertices and edge.   Two graphs with three vertices and one edge. In one graph the edge is between vertex 1 and 2. In the other the edge is between vertex 1 and 3.   We'd like to consider two graphs equal if we can re-label the vertices of one graph to get the other. For example, this can be done with the two graphs shown above. Determine the equivalence classes for this equivalence relation on the set of all graphs with vertices.    See the example in the textbook at the end of section II.4 .    "
 },
 {
   "id": "sec-II-5",
