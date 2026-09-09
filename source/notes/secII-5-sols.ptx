@@ -196,7 +196,7 @@
                             <p>
                                 If <m>(a,b) Q (c,d)</m> and <m>(c,d) Q (e,f)</m>, then <m>ad = bc</m> and <m>cf = de</m>. Then 
                                 it is also true that <m>adcf= bcde</m>, and that <m>acf=bce</m> (since we know <m>d \neq 0</m>). If <m>c=0</m>,
-                                then <m>a = e =0</m>, so <m>af=be</m>. If <m>c\neq0</m>, then we can divide <m>acf=bce</m> by <m>c</m> to get
+                                then <m>a = e =0</m>, so <m>af=be</m>. If <m>c\neq0</m>, then <m>c(af)=c(be)</m> implies
                                 <m>af = be</m>. So <m>(a,b) Q (e,f)</m>.
                             </p>
                         </solution>
