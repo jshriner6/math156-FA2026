@@ -62,8 +62,8 @@
 
 
     <!-- WEEK 4 -->
-    <xi:include href="./notes/secII-6-2.ptx"/>
-    <!-- <xi:include href="./notes/secII-6-2-sols.ptx"/> -->
+    <!-- <xi:include href="./notes/secII-6-2.ptx"/>-->
+    <xi:include href="./notes/secII-6-2-sols.ptx"/> 
 
     <xi:include href="./notes/secIII-1.ptx"/>
     <!-- <xi:include href="./notes/secIII-1-sols.ptx"/> -->
