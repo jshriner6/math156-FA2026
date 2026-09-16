@@ -1025,6 +1025,276 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "Practice: Transformations.",
   "body": " Practice: Transformations   Access the Transformations Desmos Activity for practice.   "
+},
+{
+  "id": "sec-III-4",
+  "level": "1",
+  "url": "sec-III-4.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S III.4\\text{:}\\)<\/span> Function Properties",
+  "body": " : Function Properties    Motivation: Function Properties          Definition: Onto (Surjective)        Why?        Practice: Onto   Determine if the following functions are surjective:    ,      ,      ,           Definition: One-to-one (Injective)        Why?        Practice: One-to-one   Determine if the following functions are injective:    ,      ,         Fact   If and are finite with , then     "
+},
+{
+  "id": "sec-III-4-2-1",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Function Properties.",
+  "body": " Motivation: Function Properties      "
+},
+{
+  "id": "sec-III-4-3-1",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-3-1",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Onto (Surjective).",
+  "body": " Definition: Onto (Surjective)      "
+},
+{
+  "id": "sec-III-4-3-2",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-3-2",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Why?",
+  "body": " Why?      "
+},
+{
+  "id": "sec-III-4-3-3",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-3-3",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Practice: Onto.",
+  "body": " Practice: Onto   Determine if the following functions are surjective:    ,      ,      ,       "
+},
+{
+  "id": "sec-III-4-4-1",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-4-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Definition: One-to-one (Injective).",
+  "body": " Definition: One-to-one (Injective)      "
+},
+{
+  "id": "sec-III-4-4-2",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-4-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Why?",
+  "body": " Why?      "
+},
+{
+  "id": "sec-III-4-4-3",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-4-3",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Practice: One-to-one.",
+  "body": " Practice: One-to-one   Determine if the following functions are injective:    ,      ,       "
+},
+{
+  "id": "sec-III-4-4-4",
+  "level": "2",
+  "url": "sec-III-4.html#sec-III-4-4-4",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "Fact.",
+  "body": " Fact   If and are finite with , then   "
+},
+{
+  "id": "sec-III-5",
+  "level": "1",
+  "url": "sec-III-5.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S III.5\\text{:}\\)<\/span> Bijections and Inverse Functions",
+  "body": " : Bijections and Inverse Functions    Motivation: Bijections and Inverse Functions        Definition: Bijection   A function is a bijection if     Practice: Bijections   Determine if the following functions are bijections.    ,      ,           Definition: Inverse Function   If is a bijection, we call the converse relation     Finding        Fact: Inverses and Composition          Practice: Finding Inverse Functions   The following functions are bijections. Find their inverse function.              , in         "
+},
+{
+  "id": "sec-III-5-2-1",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Bijections and Inverse Functions.",
+  "body": " Motivation: Bijections and Inverse Functions      "
+},
+{
+  "id": "sec-III-5-2-2",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Bijection.",
+  "body": " Definition: Bijection   A function is a bijection if   "
+},
+{
+  "id": "sec-III-5-2-3",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Practice: Bijections.",
+  "body": " Practice: Bijections   Determine if the following functions are bijections.    ,      ,       "
+},
+{
+  "id": "sec-III-5-3-1",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Definition: Inverse Function.",
+  "body": " Definition: Inverse Function   If is a bijection, we call the converse relation   "
+},
+{
+  "id": "sec-III-5-3-2",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Finding <span class=\"process-math\">\\(f^{-1}\\)<\/span>.",
+  "body": " Finding      "
+},
+{
+  "id": "sec-III-5-3-3",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-3-3",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Fact: Inverses and Composition.",
+  "body": " Fact: Inverses and Composition      "
+},
+{
+  "id": "sec-III-5-4-1",
+  "level": "2",
+  "url": "sec-III-5.html#sec-III-5-4-1",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Practice: Finding Inverse Functions.",
+  "body": " Practice: Finding Inverse Functions   The following functions are bijections. Find their inverse function.              , in       "
+},
+{
+  "id": "sec-III-6-sols",
+  "level": "1",
+  "url": "sec-III-6-sols.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "(OPTIONAL): <span class=\"process-math\">\\(\\S III.6\\text{:}\\)<\/span> Counting and Cardinality",
+  "body": " (OPTIONAL): : Counting and Cardinality   This is an optional section on applying bijections towards a better definition of cardinality. You will not be assessed on this content.   Motivation: Counting       We've used \"cardinality\" to describe the number of elements in a set. This becomes less useful when our sets are infinite. We introduce a better definition of cardinality, and will practice using it to justify some common counting formulas.     Definition: Cardinality   The cardinality of a finite set is if    there is a bijection between the elements of and the set .     Example 1: Counting   If and , then .    This is justified by the bijection .     Example 2: Counting   If , then .    This is justified by the bijection .       Practice: Counting   Justify the following statements, assuming and .     The number of different relations between and is .    This is the number of elements in . Using our previous result, .      The number of different functions from to is .    We can think of a function as and ordered -tuple, where the element in coordinate is . Since there are choices for each of the coordinates, this gives us different functions.      The number of different injective functions from to is .    This is similar to the above, except now we cannot repeat elements, and we must also have for this to be non-zero. This gives different injective functions.      The number of different bijective functions from to is .    To be a bijection, we must have . Using the previous formula, this gives different bijections.        Practice: Counting   Suppose a license plate has capital letters followed by digits. For example, ABCD12 is a valid license plate.  We can imagine a license plate combination being chosen by functions: and .     How many different license plate combinations are there?           How does your answer change if no letters can be repeated?           How does your answer change if no digits can be repeated?           How does your answer change if no letters or digits can be repeated?           "
+},
+{
+  "id": "sec-III-6-sols-2-2",
+  "level": "2",
+  "url": "sec-III-6-sols.html#sec-III-6-sols-2-2",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Counting.",
+  "body": " Motivation: Counting       We've used \"cardinality\" to describe the number of elements in a set. This becomes less useful when our sets are infinite. We introduce a better definition of cardinality, and will practice using it to justify some common counting formulas.   "
+},
+{
+  "id": "sec-III-6-sols-2-3",
+  "level": "2",
+  "url": "sec-III-6-sols.html#sec-III-6-sols-2-3",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Cardinality.",
+  "body": " Definition: Cardinality   The cardinality of a finite set is if    there is a bijection between the elements of and the set .   "
+},
+{
+  "id": "sec-III-6-sols-2-4",
+  "level": "2",
+  "url": "sec-III-6-sols.html#sec-III-6-sols-2-4",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Example 1: Counting.",
+  "body": " Example 1: Counting   If and , then .    This is justified by the bijection .   "
+},
+{
+  "id": "sec-III-6-sols-2-5",
+  "level": "2",
+  "url": "sec-III-6-sols.html#sec-III-6-sols-2-5",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Example 2: Counting.",
+  "body": " Example 2: Counting   If , then .    This is justified by the bijection .   "
+},
+{
+  "id": "sec-III-6-sols-3-1",
+  "level": "2",
+  "url": "sec-III-6-sols.html#sec-III-6-sols-3-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Practice: Counting.",
+  "body": " Practice: Counting   Justify the following statements, assuming and .     The number of different relations between and is .    This is the number of elements in . Using our previous result, .      The number of different functions from to is .    We can think of a function as and ordered -tuple, where the element in coordinate is . Since there are choices for each of the coordinates, this gives us different functions.      The number of different injective functions from to is .    This is similar to the above, except now we cannot repeat elements, and we must also have for this to be non-zero. This gives different injective functions.      The number of different bijective functions from to is .    To be a bijection, we must have . Using the previous formula, this gives different bijections.    "
+},
+{
+  "id": "sec-III-6-sols-4-1",
+  "level": "2",
+  "url": "sec-III-6-sols.html#sec-III-6-sols-4-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Practice: Counting.",
+  "body": " Practice: Counting   Suppose a license plate has capital letters followed by digits. For example, ABCD12 is a valid license plate.  We can imagine a license plate combination being chosen by functions: and .     How many different license plate combinations are there?           How does your answer change if no letters can be repeated?           How does your answer change if no digits can be repeated?           How does your answer change if no letters or digits can be repeated?         "
+},
+{
+  "id": "sec-IV-1",
+  "level": "1",
+  "url": "sec-IV-1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S IV.1\\text{:}\\)<\/span> Sequences",
+  "body": " : Sequences    Motivation: Sequences        Definition: Sequence   A sequence is a     Examples: Sequences   There are various ways we can define sequences, but a common way is with an explicit function.       Practice: Sequences    Write out the first terms of each sequence below.                  What is a possible rule for the sequence       Observations: Sequences        "
+},
+{
+  "id": "sec-IV-1-2-1",
+  "level": "2",
+  "url": "sec-IV-1.html#sec-IV-1-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Sequences.",
+  "body": " Motivation: Sequences      "
+},
+{
+  "id": "sec-IV-1-2-2",
+  "level": "2",
+  "url": "sec-IV-1.html#sec-IV-1-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Sequence.",
+  "body": " Definition: Sequence   A sequence is a   "
+},
+{
+  "id": "sec-IV-1-2-3",
+  "level": "2",
+  "url": "sec-IV-1.html#sec-IV-1-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Examples: Sequences.",
+  "body": " Examples: Sequences   There are various ways we can define sequences, but a common way is with an explicit function.   "
+},
+{
+  "id": "sec-IV-1-3-1",
+  "level": "2",
+  "url": "sec-IV-1.html#sec-IV-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Practice: Sequences.",
+  "body": " Practice: Sequences    Write out the first terms of each sequence below.                  What is a possible rule for the sequence     "
+},
+{
+  "id": "sec-IV-1-3-2",
+  "level": "2",
+  "url": "sec-IV-1.html#sec-IV-1-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Observations: Sequences.",
+  "body": " Observations: Sequences      "
 }
 ]
 
