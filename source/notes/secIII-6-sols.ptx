@@ -1,7 +1,11 @@
 
         <worksheet margin="1in" bottom="1.25cm" xml:id="sec-III-6-sols">
-        <title><m>\S III.6</m>: Counting and Cardinality (Complete)</title>
+        <title>(OPTIONAL): <m>\S III.6</m>: Counting and Cardinality</title>
             <page>
+                <p>
+                    This is an optional section on applying bijections towards a better definition of cardinality. You will 
+                    not be assessed on this content.
+                </p>
                 <exercise workspace="1in">
                     <title>Motivation: Counting </title>
                     <statement>

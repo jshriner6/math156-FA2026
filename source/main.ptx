@@ -75,20 +75,19 @@
     <!-- <xi:include href="./notes/secIII-3-sols.ptx"/> -->
 
      <!-- WEEK 5 -->
-<!--
+
       <xi:include href="./notes/secIII-4.ptx"/>
-  <xi:include href="./notes/secIII-4-sols.ptx"/> 
+    <!-- <xi:include href="./notes/secIII-4-sols.ptx"/> -->
 
      <xi:include href="./notes/secIII-5.ptx"/>
-  <xi:include href="./notes/secIII-5-sols.ptx"/> 
+ <!-- <xi:include href="./notes/secIII-5-sols.ptx"/>  -->
 
-     <xi:include href="./notes/secIII-6.ptx"/>
+   <!--  <xi:include href="./notes/secIII-6.ptx"/> -->
  <xi:include href="./notes/secIII-6-sols.ptx"/> 
 
      <xi:include href="./notes/secIV-1.ptx"/>
-    <xi:include href="./notes/secIV-1-sols.ptx"/> 
+   <!-- <xi:include href="./notes/secIV-1-sols.ptx"/> -->
 
-    -->
     <!-- WEEK 6 -->
 
      
