@@ -79,8 +79,8 @@
     <!--   <xi:include href="./notes/secIII-4.ptx"/> -->
     <xi:include href="./notes/secIII-4-sols.ptx"/> 
 
-     <xi:include href="./notes/secIII-5.ptx"/>
- <!-- <xi:include href="./notes/secIII-5-sols.ptx"/>  -->
+   <!--   <xi:include href="./notes/secIII-5.ptx"/> -->
+    <xi:include href="./notes/secIII-5-sols.ptx"/>  
 
    <!--  <xi:include href="./notes/secIII-6.ptx"/> -->
  <xi:include href="./notes/secIII-6-sols.ptx"/> 
