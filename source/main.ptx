@@ -90,8 +90,8 @@
 
 
     <!-- WEEK 6 -->
-   <xi:include href="./notes/secIV-2.ptx"/>
-   <!-- <xi:include href="./notes/secIV-2-sols.ptx"/> -->
+   <!-- <xi:include href="./notes/secIV-2.ptx"/> -->
+   <xi:include href="./notes/secIV-2-sols.ptx"/> 
 
     <xi:include href="./notes/secIV-3.ptx"/>
    <!-- <xi:include href="./notes/secIV-3-sols.ptx"/> -->
@@ -103,7 +103,17 @@
    <!-- <xi:include href="./notes/secIV-5-sols.ptx"/> -->
 
     <!-- WEEK 7 -->
+   <!-- <xi:include href="./notes/secIV-6.ptx"/>
+    <xi:include href="./notes/secIV-6-sols.ptx"/> 
 
+    <xi:include href="./notes/secIV-7.ptx"/>
+    <xi:include href="./notes/secIV-7-sols.ptx"/> 
+
+    <xi:include href="./notes/secIV-8.ptx"/>
+   <xi:include href="./notes/secIV-8-sols.ptx"/> -->
+
+
+    <!-- WEEK 8 -->
      
       <!-- etc. -->
 
