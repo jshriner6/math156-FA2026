@@ -1522,49 +1522,49 @@ var ptx_lunr_docs = [
   "body": " Practice: Properties of Limits   Determine if the sequences defined by the following rules converge or diverge. If that converge, find their limit.                                                       (diverges)               (diverges)     diverges   You can visualize the last four sequences in the Desmos visual for convergent sequences .   "
 },
 {
-  "id": "sec-IV-5",
+  "id": "sec-IV-5-sols",
   "level": "1",
-  "url": "sec-IV-5.html",
+  "url": "sec-IV-5-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S IV.5\\text{:}\\)<\/span> Limits, Bounds, and <span class=\"process-math\">\\(\\R\\)<\/span>",
-  "body": " : Limits, Bounds, and    Motivation: Limits and Bounds        Practice: Monotone, bounded, and convergence   Do you think the following implications are true or false? If false, describe a counter-example.   If converges, then it is bounded.    If is bounded, then it converges.    If converges, then it is monotone.    If is monotone, then it converges.    If is monotone and bounded, then it converges.          Example: Finding Limits   Consider the recursive sequence , .     A note regarding   Recall that we used equivalence relations to construct from , and from .     "
+  "title": "<span class=\"process-math\">\\(\\S IV.5\\text{:}\\)<\/span> Limits, Bounds, and <span class=\"process-math\">\\(\\R\\)<\/span> (Complete)",
+  "body": " : Limits, Bounds, and (Complete)    Motivation: Limits and Bounds       Last time we explored different ways that sequences converged. We'll use the concepts of monotone and bounded to say more about when sequences converge.     Practice: Monotone, bounded, and convergence   Do you think the following implications are true or false? If false, describe a counter-example.   If converges, then it is bounded.    If is bounded, then it converges.    If converges, then it is monotone.    If is monotone, then it converges.    If is monotone and bounded, then it converges.          This is true.    This is false. Consider .    This is false. Consider .    This is false. Consider .    This is true, and can be a very useful fact for analyzing recursive sequences.          Example: Finding Limits   Consider the recursive sequence , .    See notes from class, or the supplemental notes for section IV.5 in myOpenMath.     A note regarding   Recall that we used equivalence relations to construct from , and from .    We can similarly construct as equivalence classes of special sequences of rational numbers. The details are beyond the scope of our course.     "
 },
 {
-  "id": "sec-IV-5-2-1",
+  "id": "sec-IV-5-sols-2-1",
   "level": "2",
-  "url": "sec-IV-5.html#sec-IV-5-2-1",
+  "url": "sec-IV-5-sols.html#sec-IV-5-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Limits and Bounds.",
-  "body": " Motivation: Limits and Bounds      "
+  "body": " Motivation: Limits and Bounds       Last time we explored different ways that sequences converged. We'll use the concepts of monotone and bounded to say more about when sequences converge.   "
 },
 {
-  "id": "sec-IV-5-2-2",
+  "id": "sec-IV-5-sols-2-2",
   "level": "2",
-  "url": "sec-IV-5.html#sec-IV-5-2-2",
+  "url": "sec-IV-5-sols.html#sec-IV-5-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Practice: Monotone, bounded, and convergence.",
-  "body": " Practice: Monotone, bounded, and convergence   Do you think the following implications are true or false? If false, describe a counter-example.   If converges, then it is bounded.    If is bounded, then it converges.    If converges, then it is monotone.    If is monotone, then it converges.    If is monotone and bounded, then it converges.      "
+  "body": " Practice: Monotone, bounded, and convergence   Do you think the following implications are true or false? If false, describe a counter-example.   If converges, then it is bounded.    If is bounded, then it converges.    If converges, then it is monotone.    If is monotone, then it converges.    If is monotone and bounded, then it converges.          This is true.    This is false. Consider .    This is false. Consider .    This is false. Consider .    This is true, and can be a very useful fact for analyzing recursive sequences.      "
 },
 {
-  "id": "sec-IV-5-3-1",
+  "id": "sec-IV-5-sols-3-1",
   "level": "2",
-  "url": "sec-IV-5.html#sec-IV-5-3-1",
+  "url": "sec-IV-5-sols.html#sec-IV-5-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Example: Finding Limits.",
-  "body": " Example: Finding Limits   Consider the recursive sequence , .   "
+  "body": " Example: Finding Limits   Consider the recursive sequence , .    See notes from class, or the supplemental notes for section IV.5 in myOpenMath.   "
 },
 {
-  "id": "sec-IV-5-3-2",
+  "id": "sec-IV-5-sols-3-2",
   "level": "2",
-  "url": "sec-IV-5.html#sec-IV-5-3-2",
+  "url": "sec-IV-5-sols.html#sec-IV-5-sols-3-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "A note regarding <span class=\"process-math\">\\(\\R\\)<\/span>.",
-  "body": " A note regarding   Recall that we used equivalence relations to construct from , and from .   "
+  "body": " A note regarding   Recall that we used equivalence relations to construct from , and from .    We can similarly construct as equivalence classes of special sequences of rational numbers. The details are beyond the scope of our course.   "
 },
 {
   "id": "sec-IV-6",
