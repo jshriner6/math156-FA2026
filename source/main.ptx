@@ -99,8 +99,8 @@
    <!-- <xi:include href="./notes/secIV-4.ptx"/>  -->
     <xi:include href="./notes/secIV-4-sols.ptx"/>
 
-    <xi:include href="./notes/secIV-5.ptx"/>
-   <!-- <xi:include href="./notes/secIV-5-sols.ptx"/> -->
+   <!-- <xi:include href="./notes/secIV-5.ptx"/>-->
+    <xi:include href="./notes/secIV-5-sols.ptx"/> 
 
     <!-- WEEK 7 -->
     <xi:include href="./notes/secIV-6.ptx"/>
