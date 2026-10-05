@@ -1567,76 +1567,76 @@ var ptx_lunr_docs = [
   "body": " A note regarding   Recall that we used equivalence relations to construct from , and from .    We can similarly construct as equivalence classes of special sequences of rational numbers. The details are beyond the scope of our course.   "
 },
 {
-  "id": "sec-IV-6",
+  "id": "sec-IV-6-sols",
   "level": "1",
-  "url": "sec-IV-6.html",
+  "url": "sec-IV-6-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S IV.6\\text{:}\\)<\/span> Series",
-  "body": " : Series    Motivation: Series        Thought Exercise   Suppose I take steps according to the rules:   Each step is half the distance of the previous step.    My first step is foot.   If I take infinitely many steps, how far have I traveled?     Modeling with Sequences and Series          Definitions        Example: Partial Sums           Practice: Partial Sums   For each sequence, write the corresponding series using summation notation. Then compute the first five partial sums, and make a guess as to whether the series converges or diverges.                 Facts: Convergence        "
+  "title": "<span class=\"process-math\">\\(\\S IV.6\\text{:}\\)<\/span> Series (Complete)",
+  "body": " : Series (Complete)    Motivation: Series       Series (infinite sums) are very useful structures in solving problems and representing functions (more later on this!). First, when does this even make sense, and what are some basic tools that can help?     Thought Exercise   Suppose I take steps according to the rules:   Each step is half the distance of the previous step.    My first step is foot.   If I take infinitely many steps, how far have I traveled?     Modeling with Sequences and Series       If we let be the sequence whose term is the length of my step, then To answer the question, we're asking what is the sum of all these terms:        Definitions       Let be a sequence.   The series associated with the sequence is the infinite sum     The partial sum of the series is the finite sum .    If the sequence converges to a number , the we write , and say the series converges . Otherwise, we say the series diverges .        Example: Partial Sums        To get an idea if this series converges or diverges, we can compute several partial sums:                      Using technology, we can guess that the partial sums converge to .       Practice: Partial Sums   For each sequence, write the corresponding series using summation notation. Then compute the first five partial sums, and make a guess as to whether the series converges or diverges.                                                     This series diverges.                                      This series converges.        Facts: Convergence       If converges, then . Equivalently, if , then diverges.  The series converges if . Otherwise, it diverges.     "
 },
 {
-  "id": "sec-IV-6-2-1",
+  "id": "sec-IV-6-sols-2-1",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-2-1",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Series.",
-  "body": " Motivation: Series      "
+  "body": " Motivation: Series       Series (infinite sums) are very useful structures in solving problems and representing functions (more later on this!). First, when does this even make sense, and what are some basic tools that can help?   "
 },
 {
-  "id": "sec-IV-6-2-2",
+  "id": "sec-IV-6-sols-2-2",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-2-2",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Thought Exercise.",
   "body": " Thought Exercise   Suppose I take steps according to the rules:   Each step is half the distance of the previous step.    My first step is foot.   If I take infinitely many steps, how far have I traveled?   "
 },
 {
-  "id": "sec-IV-6-2-3",
+  "id": "sec-IV-6-sols-2-3",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-2-3",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-2-3",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Modeling with Sequences and Series.",
-  "body": " Modeling with Sequences and Series      "
+  "body": " Modeling with Sequences and Series       If we let be the sequence whose term is the length of my step, then To answer the question, we're asking what is the sum of all these terms:    "
 },
 {
-  "id": "sec-IV-6-3-1",
+  "id": "sec-IV-6-sols-3-1",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-3-1",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Definitions.",
-  "body": " Definitions      "
+  "body": " Definitions       Let be a sequence.   The series associated with the sequence is the infinite sum     The partial sum of the series is the finite sum .    If the sequence converges to a number , the we write , and say the series converges . Otherwise, we say the series diverges .      "
 },
 {
-  "id": "sec-IV-6-3-2",
+  "id": "sec-IV-6-sols-3-2",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-3-2",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-3-2",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "Example: Partial Sums.",
-  "body": " Example: Partial Sums       "
+  "body": " Example: Partial Sums        To get an idea if this series converges or diverges, we can compute several partial sums:                      Using technology, we can guess that the partial sums converge to .   "
 },
 {
-  "id": "sec-IV-6-4-1",
+  "id": "sec-IV-6-sols-4-1",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-4-1",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-4-1",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "Practice: Partial Sums.",
-  "body": " Practice: Partial Sums   For each sequence, write the corresponding series using summation notation. Then compute the first five partial sums, and make a guess as to whether the series converges or diverges.               "
+  "body": " Practice: Partial Sums   For each sequence, write the corresponding series using summation notation. Then compute the first five partial sums, and make a guess as to whether the series converges or diverges.                                                     This series diverges.                                      This series converges.      "
 },
 {
-  "id": "sec-IV-6-4-2",
+  "id": "sec-IV-6-sols-4-2",
   "level": "2",
-  "url": "sec-IV-6.html#sec-IV-6-4-2",
+  "url": "sec-IV-6-sols.html#sec-IV-6-sols-4-2",
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "Facts: Convergence.",
-  "body": " Facts: Convergence      "
+  "body": " Facts: Convergence       If converges, then . Equivalently, if , then diverges.  The series converges if . Otherwise, it diverges.   "
 },
 {
   "id": "sec-IV-7",
@@ -1745,6 +1745,114 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "Practice: Sums of Arithmetic Sequences.",
   "body": " Practice: Sums of Arithmetic Sequences   Compute the following sums:                 As a challenge, compute a formula for the generic sum .   "
+},
+{
+  "id": "sec-V-1",
+  "level": "1",
+  "url": "sec-V-1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S V.1\\text{:}\\)<\/span> Limits of Functions and Continuity",
+  "body": " : Limits of Functions and Continuity    Motivation: Limits of Functions        Definition: Limits of Functions   Let , and .       Computing Limits Algebraically                           Practice: Computing Limits   Compute the following limits:                        Continuity   A function is continuous at if     "
+},
+{
+  "id": "sec-V-1-2-1",
+  "level": "2",
+  "url": "sec-V-1.html#sec-V-1-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Limits of Functions.",
+  "body": " Motivation: Limits of Functions      "
+},
+{
+  "id": "sec-V-1-2-2",
+  "level": "2",
+  "url": "sec-V-1.html#sec-V-1-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Limits of Functions.",
+  "body": " Definition: Limits of Functions   Let , and .   "
+},
+{
+  "id": "sec-V-1-3-1",
+  "level": "2",
+  "url": "sec-V-1.html#sec-V-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Computing Limits Algebraically.",
+  "body": " Computing Limits Algebraically                       "
+},
+{
+  "id": "sec-V-1-4-1",
+  "level": "2",
+  "url": "sec-V-1.html#sec-V-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Practice: Computing Limits.",
+  "body": " Practice: Computing Limits   Compute the following limits:                    "
+},
+{
+  "id": "sec-V-1-5-1",
+  "level": "2",
+  "url": "sec-V-1.html#sec-V-1-5-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Continuity.",
+  "body": " Continuity   A function is continuous at if   "
+},
+{
+  "id": "sec-V-2",
+  "level": "1",
+  "url": "sec-V-2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S V.2\\text{:}\\)<\/span> More on Continuity",
+  "body": " : More on Continuity    Motivation: Continuity        The Intermediate Value Theorem   Let be continuous, and let with . If is strictly between and , then       Application: Finding Zeros   Is there a solution to ?     Application: Estimating          Practice: IVT   Use the Intermediate Value Theorem to approximate a solution to .     "
+},
+{
+  "id": "sec-V-2-2-1",
+  "level": "2",
+  "url": "sec-V-2.html#sec-V-2-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Continuity.",
+  "body": " Motivation: Continuity      "
+},
+{
+  "id": "sec-V-2-2-2",
+  "level": "2",
+  "url": "sec-V-2.html#sec-V-2-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "The Intermediate Value Theorem.",
+  "body": " The Intermediate Value Theorem   Let be continuous, and let with . If is strictly between and , then   "
+},
+{
+  "id": "sec-V-2-3-1",
+  "level": "2",
+  "url": "sec-V-2.html#sec-V-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Application: Finding Zeros.",
+  "body": " Application: Finding Zeros   Is there a solution to ?   "
+},
+{
+  "id": "sec-V-2-3-2",
+  "level": "2",
+  "url": "sec-V-2.html#sec-V-2-3-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Application: Estimating <span class=\"process-math\">\\(\\pi\\)<\/span>.",
+  "body": " Application: Estimating      "
+},
+{
+  "id": "sec-V-2-4-1",
+  "level": "2",
+  "url": "sec-V-2.html#sec-V-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Practice: IVT.",
+  "body": " Practice: IVT   Use the Intermediate Value Theorem to approximate a solution to .   "
 }
 ]
 
