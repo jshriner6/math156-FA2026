@@ -1,0 +1,80 @@
+
+        <worksheet margin="1in" bottom="1.25cm" xml:id="sec-V-7">
+        <title><m>\S V.7</m>: The Derivative as a Function </title>
+            <page>
+                <exercise workspace="1in">
+                    <title>Motivation: The Derivative Function  </title>
+                    <statement>
+                        <p>
+                            
+                        </p>
+                    </statement>
+                    
+                
+                </exercise>
+                <exercise workspace="3in">
+                    <title>Review and Notation</title>
+                    <statement>
+                        <p>
+                            Let's review some derivative functions we already know, and introduce new notation.
+                        </p>
+                    </statement>
+                    
+                    
+                </exercise>
+
+                <exercise workspace="3in">
+                    <title>Example: Notation</title>
+                    <statement>
+                        <p>
+                            Notation is important for identifying the variable we are taking the derivative with respect to.
+                        </p>
+                    </statement>
+                    
+                    
+                </exercise>
+
+            </page>
+            <page>
+                <exercise>
+                    <title>Practice: Derivative Functions</title>
+                    <task workspace="2in">
+                        <statement>
+                            <p>
+                                For <m>f(x)</m> given below, sketch a rough graph of <m>f'(x)</m>.
+                            </p>
+                                <image source="graphf.jpeg" width="75%">
+                                    <shortdescription>Graph of f of x, which is a polynomial that increases, then decreases, then increases.</shortdescription>
+                                </image>
+                            
+                        </statement>
+                    </task>
+                    <task workspace="1in">
+                        <statement>
+                            <p>
+                               If <m>f(t)= t^2+2t- \sqrt{t}</m>, compute <m>f'(t)</m>.
+                            </p>
+                        </statement>
+                    </task>
+                    <task workspace="1in">
+                        <statement>
+                            <p>
+                                If <m>y= z^3 + z^{-1} - \pi</m>, compute <m>\frac{dy}{dz}</m>.
+                            </p>
+                        </statement>
+                    </task>
+                    <task workspace="2in">
+                        <statement>
+                            <p>
+                                <md>
+                                    \frac{d}{dm}\left( 2n + m^2 + mn\right) = 
+                                </md>
+                                
+                            </p>
+                        </statement>
+                    </task>
+                    
+                </exercise>
+            </page>
+
+        </worksheet>

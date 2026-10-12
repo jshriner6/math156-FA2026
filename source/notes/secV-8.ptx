@@ -1,0 +1,220 @@
+
+        <worksheet margin="1in" bottom="1.25cm" xml:id="sec-V-8">
+        <title><m>\S V.8</m>: Derivatives of Common Functions</title>
+            <page>
+                <exercise workspace="1in">
+                    <title>Motivation: Derivatives of Common Functions </title>
+                    <statement>
+                        <p>
+                            
+                        </p>
+                    </statement>
+                    
+                
+                </exercise>
+                <exercise workspace="6in">
+                    <title>Activity: Derivative of Sine</title>
+                    
+                    
+                    <statement>
+    <p>
+      Consider the function <m>f(x) = \sin(x)</m>,
+      which is graphed in <xref ref="F-2-2-A1">Figure</xref> below.
+      Note carefully that the grid in the diagram does not have boxes that are <m>1 \times 1</m>,
+      but rather approximately <m>1.57 \times 1</m>,
+      as the horizontal scale of the grid is <m>\pi/2</m> units per box.
+    </p>
+
+    <figure xml:id="F-2-2-A1">
+      <caption>At left, the graph of <m>y = f(x) = \sin(x)</m>.</caption>
+      <image width="100%" source="sine" >
+      		<shortdescription>The graph of sine of x along with blank axes for sketching its derivative function. </shortdescription>
+      </image>
+    </figure>
+
+    <p >
+      <ol marker="a." >
+        <li >
+          <p >
+            At each of <m>x = -2\pi, -\frac{3\pi}{2}, -\pi, -\frac{\pi}{2}, 0, \frac{\pi}{2}, \pi, \frac{3\pi}{2}, 2\pi</m>,
+            use a straightedge to sketch an accurate tangent line to <m>y = f(x)</m>.
+          </p>
+        </li>
+
+        <li >
+          <p >
+            Use the provided grid to estimate the slope of the tangent line you drew at each point.
+            Pay careful attention to the scale of the grid.
+          </p>
+        </li>
+
+        <li >
+          <p >
+            Use the limit definition of the derivative to estimate <m>f'(0)</m> by using small values of <m>h</m>,
+            and compare the result to your visual estimate for the slope of the tangent line to
+            <m>y = f(x)</m> at <m>x = 0</m> in (b).
+            Using periodicity, what does this result suggest about
+            <m>f'(2\pi)</m>? about <m>f'(-2\pi)</m>?
+          </p>
+        </li>
+
+        <li >
+          <p >
+            Based on your work in (a), (b), and (c),
+            sketch an accurate graph of
+            <m>y = f'(x)</m> on the axes adjacent to the graph of <m>y = f(x)</m>.
+          </p>
+        </li>
+
+        <li >
+          <p>
+            What familiar function do you think is the derivative of <m>f(x) = \sin(x)</m>?
+          </p>
+        </li>
+      </ol>
+    </p>
+  </statement>
+                </exercise>
+                
+
+            </page>
+
+            <page>
+                <exercise>
+                    <title>Activity: Derivative of Cosine</title>
+                    <statement>
+    <p >
+      Consider the function <m>g(x) = \cos(x)</m>,
+      which is graphed in <xref ref="F-2-2-A2">Figure</xref> below.
+      Note carefully that the grid in the diagram does not have boxes that are <m>1 \times 1</m>,
+      but rather approximately <m>1.57 \times 1</m>,
+      as the horizontal scale of the grid is <m>\pi/2</m> units per box.
+    </p>
+
+    <figure xml:id="F-2-2-A2">
+      <caption>At left, the graph of <m>y = g(x) = \cos(x)</m>.</caption>
+      <image width="100%" source="cosine" >
+      	<shortdescription>The graph of the cosine function along with blank axes for sketching its derivative function. </shortdescription>
+      </image>
+    </figure>
+
+    <p >
+      <ol marker="a." >
+        <li >
+          <p >
+            At each of <m>x = -2\pi, -\frac{3\pi}{2}, -\pi, -\frac{\pi}{2}, 0, \frac{\pi}{2}, \pi, \frac{3\pi}{2}, 2\pi</m>,
+            use a straightedge to sketch an accurate tangent line to <m>y = g(x)</m>.
+          </p>
+        </li>
+
+        <li >
+          <p >
+            Use the provided grid to estimate the slope of the tangent line you drew at each point.
+            Again, note the scale of the axes and grid.
+          </p>
+        </li>
+
+        <li >
+          <p >
+            Use the limit definition of the derivative to estimate
+            <m>g'(\frac{\pi}{2})</m> by using small values of <m>h</m>,
+            and compare the result to your visual estimate for the slope of the tangent line to
+            <m>y = g(x)</m> at <m>x = \frac{\pi}{2}</m> in (b).
+            Using periodicity, what does this result suggest about
+            <m>g'(-\frac{3\pi}{2})</m>? can symmetry on the graph help you estimate other slopes easily?
+          </p>
+        </li>
+
+        <li >
+          <p>
+            Based on your work in (a), (b), and (c),
+            sketch an accurate graph of
+            <m>y = g'(x)</m> on the axes adjacent to the graph of <m>y = g(x)</m>.
+          </p>
+        </li>
+
+        <li>
+          <p>
+            What familiar function do you think is the derivative of <m>g(x) = \cos(x)</m>?
+          </p>
+        </li>
+      </ol>
+    </p>
+  </statement>
+                    
+                </exercise>
+            </page>
+
+            <page>
+                <exercise>
+                    <title>Activity: Derivatives of <m>e^x</m> and <m>\ln(x)</m></title>
+                    <introduction>
+                        <p>
+                            Use the graphs of <m>f(x)= e^x</m> (left) and <m>g(x)=\ln(x)</m> (right) to answer the following 
+                            questions.
+                        </p>
+                        <sidebyside width="50%">
+                            <image source="ex.png">
+                                <shortdescription>Graph of e to the x</shortdescription>
+                            </image>
+                            <image source="lnx.png">
+                                <shortdescription>Graph of natural log of x</shortdescription>
+                            </image>
+                        </sidebyside>
+                    </introduction>
+                    <task workspace="3in">
+                      <statement>
+                        <p>
+                          On each graph, sketch the tangent lines that represent the values <m>f'(0), f'(1), g'(1)</m>,
+                          and <m>g'(2)</m>. Then use the limit definition and technology to estimate the slope of each
+                          tangent line.
+                        </p>
+                      </statement>
+                    </task>
+                    <task workspace="0.5in">
+                      <statement>
+                        <p>
+                          On each graph, sketch a rough graph of <m>f'(x)</m> and <m>g'(x)</m>.
+                        </p>
+                      </statement>
+                    </task>
+                    <task workspace="2in">
+                      <statement>
+                        <p>
+                          Use your responses to the previous parts to hypothesize equations for <m>f'(x)</m> and <m>g'(x)</m>.
+                        </p>
+                      </statement>
+                    </task>
+                </exercise>
+            </page>
+            <page>
+              <exercise>
+                <title>Practice: Computing Derivatives</title>
+                <statement>
+                  <p>
+                    Compute derivative functions of the following functions.
+                    <ol>
+                      <li>
+                        <p>
+                          <m>f(x)=3\sin(x) - 4\cos(x)</m>
+                        </p>
+                      </li>
+                      <li>
+                        <p>
+                          <m>g(t)=2e^t - 3\ln(t)</m>
+                        </p>
+                      </li>
+
+                      <li>
+                        <p>
+                          <m>h(x)=x^e + e^x + e</m>
+                        </p>
+                      </li>
+                    </ol>
+                  </p>
+                </statement>
+                
+              </exercise>
+            </page>
+
+        </worksheet>
