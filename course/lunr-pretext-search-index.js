@@ -1855,67 +1855,67 @@ var ptx_lunr_docs = [
   "body": " Practice: IVT   Use the Intermediate Value Theorem to approximate a solution to .    We know is continuous since it is a polynomial. We could start by noticing that and . Therefore, the IVT tells us there must exist such that . The midpoint of the interval is , so we can compute . Therefore, the IVT tells us there must exist such that . Repeating four more times would tell us that . Compare this to the actual value of .   "
 },
 {
-  "id": "sec-V-5",
+  "id": "sec-V-5-sols",
   "level": "1",
-  "url": "sec-V-5.html",
+  "url": "sec-V-5-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S V.5\\text{:}\\)<\/span> The Derivative",
-  "body": " : The Derivative    Motivation: Derivatives        Average Rate of Change          Instantaneous Rate of Change        Example: IROC   Let . What is the instantaneous rate of change of at ?       Example: Derivative DNE        Differentiability and Continuity   If is differentiable at , then     "
+  "title": "<span class=\"process-math\">\\(\\S V.5\\text{:}\\)<\/span> The Derivative (Complete)",
+  "body": " : The Derivative (Complete)    Motivation: Derivatives       Determining how a function changes over time is at the root of many questions. We will review one way we can describe change for a function, and use it to develop a new way to describe change.     Average Rate of Change       We can use the average rate of change to describe how a function changes between two input values.  For example, if then between and we can calculate . The number describes the slope of the secant line connecting the points and .  Another equivalent way to compute average rate of change is using a difference quotient . A difference quotient calculates the average rate of change between points and : .       Instantaneous Rate of Change       We can use the instantaneous rate of change to describe how a function changes at a single input value. See the IROC interactive to visualize how we define IROC from AROC. Using limit notation, we write .  Note that instead of , we typically write (\"f prime at x zero\", or \"the derivative of f at x zero\"). Also note that limits need not exist, so the derivative of a function at an input value may not exist. If does exist, we say is differentiable at .     Example: IROC   Let . What is the instantaneous rate of change of at ?     (see notes from class for the algebra needed to simplify the limit to a final answer).  The value describes the slope of the tangent line to at . This line is important, and once we have its slope, we can write down the equation of the line using point-slope form: .       Example: Derivative DNE       Let . If we try to compute , we get . Notice that if we approach from the left this expression is , but if we approach from the right, this expression is . In other words, this limit (and thus the derivative of at ) does not exist.     Differentiability and Continuity   If is differentiable at , then     is continuous at . Equivalently, if is discontinuous at , then is not differentiable at . Note that being continuous at an input does not imply it is differentiable at that input (see our previous example).     "
 },
 {
-  "id": "sec-V-5-2-1",
+  "id": "sec-V-5-sols-2-1",
   "level": "2",
-  "url": "sec-V-5.html#sec-V-5-2-1",
+  "url": "sec-V-5-sols.html#sec-V-5-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Derivatives.",
-  "body": " Motivation: Derivatives      "
+  "body": " Motivation: Derivatives       Determining how a function changes over time is at the root of many questions. We will review one way we can describe change for a function, and use it to develop a new way to describe change.   "
 },
 {
-  "id": "sec-V-5-2-2",
+  "id": "sec-V-5-sols-2-2",
   "level": "2",
-  "url": "sec-V-5.html#sec-V-5-2-2",
+  "url": "sec-V-5-sols.html#sec-V-5-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Average Rate of Change.",
-  "body": " Average Rate of Change      "
+  "body": " Average Rate of Change       We can use the average rate of change to describe how a function changes between two input values.  For example, if then between and we can calculate . The number describes the slope of the secant line connecting the points and .  Another equivalent way to compute average rate of change is using a difference quotient . A difference quotient calculates the average rate of change between points and : .   "
 },
 {
-  "id": "sec-V-5-3-1",
+  "id": "sec-V-5-sols-3-1",
   "level": "2",
-  "url": "sec-V-5.html#sec-V-5-3-1",
+  "url": "sec-V-5-sols.html#sec-V-5-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Instantaneous Rate of Change.",
-  "body": " Instantaneous Rate of Change      "
+  "body": " Instantaneous Rate of Change       We can use the instantaneous rate of change to describe how a function changes at a single input value. See the IROC interactive to visualize how we define IROC from AROC. Using limit notation, we write .  Note that instead of , we typically write (\"f prime at x zero\", or \"the derivative of f at x zero\"). Also note that limits need not exist, so the derivative of a function at an input value may not exist. If does exist, we say is differentiable at .   "
 },
 {
-  "id": "sec-V-5-3-2",
+  "id": "sec-V-5-sols-3-2",
   "level": "2",
-  "url": "sec-V-5.html#sec-V-5-3-2",
+  "url": "sec-V-5-sols.html#sec-V-5-sols-3-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Example: IROC.",
-  "body": " Example: IROC   Let . What is the instantaneous rate of change of at ?   "
+  "body": " Example: IROC   Let . What is the instantaneous rate of change of at ?     (see notes from class for the algebra needed to simplify the limit to a final answer).  The value describes the slope of the tangent line to at . This line is important, and once we have its slope, we can write down the equation of the line using point-slope form: .   "
 },
 {
-  "id": "sec-V-5-4-1",
+  "id": "sec-V-5-sols-4-1",
   "level": "2",
-  "url": "sec-V-5.html#sec-V-5-4-1",
+  "url": "sec-V-5-sols.html#sec-V-5-sols-4-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "Example: Derivative DNE.",
-  "body": " Example: Derivative DNE      "
+  "body": " Example: Derivative DNE       Let . If we try to compute , we get . Notice that if we approach from the left this expression is , but if we approach from the right, this expression is . In other words, this limit (and thus the derivative of at ) does not exist.   "
 },
 {
-  "id": "sec-V-5-4-2",
+  "id": "sec-V-5-sols-4-2",
   "level": "2",
-  "url": "sec-V-5.html#sec-V-5-4-2",
+  "url": "sec-V-5-sols.html#sec-V-5-sols-4-2",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "Differentiability and Continuity.",
-  "body": " Differentiability and Continuity   If is differentiable at , then   "
+  "body": " Differentiability and Continuity   If is differentiable at , then     is continuous at . Equivalently, if is discontinuous at , then is not differentiable at . Note that being continuous at an input does not imply it is differentiable at that input (see our previous example).   "
 },
 {
   "id": "sec-V-6",
@@ -2087,6 +2087,258 @@ var ptx_lunr_docs = [
   "number": "5",
   "title": "Practice: Computing Derivatives.",
   "body": " Practice: Computing Derivatives   Compute derivative functions of the following functions.                    "
+},
+{
+  "id": "sec-V-9",
+  "level": "1",
+  "url": "sec-V-9.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S V.9\\text{:}\\)<\/span> Derivative Rules",
+  "body": " : Derivative Rules    Motivation: Derivative Rules        The Product Rule        Practice: The Product Rule                      The Quotient Rule        Practice: The Quotient Rule                      The Chain Rule   Let and .     Practice: The Chain Rule                      Practice: Putting It All Together                    "
+},
+{
+  "id": "sec-V-9-2-1",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Derivative Rules.",
+  "body": " Motivation: Derivative Rules      "
+},
+{
+  "id": "sec-V-9-2-2",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "The Product Rule.",
+  "body": " The Product Rule      "
+},
+{
+  "id": "sec-V-9-2-3",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Practice: The Product Rule.",
+  "body": " Practice: The Product Rule                  "
+},
+{
+  "id": "sec-V-9-3-1",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "The Quotient Rule.",
+  "body": " The Quotient Rule      "
+},
+{
+  "id": "sec-V-9-3-2",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Practice: The Quotient Rule.",
+  "body": " Practice: The Quotient Rule                  "
+},
+{
+  "id": "sec-V-9-4-1",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-4-1",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "The Chain Rule.",
+  "body": " The Chain Rule   Let and .   "
+},
+{
+  "id": "sec-V-9-4-2",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-4-2",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Practice: The Chain Rule.",
+  "body": " Practice: The Chain Rule                  "
+},
+{
+  "id": "sec-V-9-5-1",
+  "level": "2",
+  "url": "sec-V-9.html#sec-V-9-5-1",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "Practice: Putting It All Together.",
+  "body": " Practice: Putting It All Together                  "
+},
+{
+  "id": "sec-V-10",
+  "level": "1",
+  "url": "sec-V-10.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S V.10\\text{:}\\)<\/span> Higher Derivatives",
+  "body": " : Higher Derivatives    Motivation: Higher Derivatives        Notation   Let .       Practice: Higher Derivatives    Let .   Compute , , and .    Compute .         Let . Compute .      Let . What is ? What is ?      "
+},
+{
+  "id": "sec-V-10-2-1",
+  "level": "2",
+  "url": "sec-V-10.html#sec-V-10-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Higher Derivatives.",
+  "body": " Motivation: Higher Derivatives      "
+},
+{
+  "id": "sec-V-10-2-2",
+  "level": "2",
+  "url": "sec-V-10.html#sec-V-10-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Notation.",
+  "body": " Notation   Let .   "
+},
+{
+  "id": "sec-V-10-3-1",
+  "level": "2",
+  "url": "sec-V-10.html#sec-V-10-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Practice: Higher Derivatives.",
+  "body": " Practice: Higher Derivatives    Let .   Compute , , and .    Compute .         Let . Compute .      Let . What is ? What is ?    "
+},
+{
+  "id": "sec-VI-1",
+  "level": "1",
+  "url": "sec-VI-1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S VI.1\\text{:}\\)<\/span> Increasing\/Decreasing",
+  "body": " : Increasing\/Decreasing    Motivation: Increasing\/Decreasing        Facts: Increasing\/Decreasing        Definition: Critical Point   Let be in the domain of . If or does not exist, then       Example: Increasing\/Decreasing   Describe where is increasing and decreasing.     Practice: Increasing\/Decreasing   Describe where is increasing and decreasing.     "
+},
+{
+  "id": "sec-VI-1-2-1",
+  "level": "2",
+  "url": "sec-VI-1.html#sec-VI-1-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Increasing\/Decreasing.",
+  "body": " Motivation: Increasing\/Decreasing      "
+},
+{
+  "id": "sec-VI-1-2-2",
+  "level": "2",
+  "url": "sec-VI-1.html#sec-VI-1-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Facts: Increasing\/Decreasing.",
+  "body": " Facts: Increasing\/Decreasing      "
+},
+{
+  "id": "sec-VI-1-2-3",
+  "level": "2",
+  "url": "sec-VI-1.html#sec-VI-1-2-3",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Definition: Critical Point.",
+  "body": " Definition: Critical Point   Let be in the domain of . If or does not exist, then   "
+},
+{
+  "id": "sec-VI-1-3-1",
+  "level": "2",
+  "url": "sec-VI-1.html#sec-VI-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Example: Increasing\/Decreasing.",
+  "body": " Example: Increasing\/Decreasing   Describe where is increasing and decreasing.   "
+},
+{
+  "id": "sec-VI-1-3-2",
+  "level": "2",
+  "url": "sec-VI-1.html#sec-VI-1-3-2",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Practice: Increasing\/Decreasing.",
+  "body": " Practice: Increasing\/Decreasing   Describe where is increasing and decreasing.   "
+},
+{
+  "id": "sec-VI-2",
+  "level": "1",
+  "url": "sec-VI-2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S VI.2\\text{:}\\)<\/span> The Shape of a Curve",
+  "body": " : The Shape of a Curve    Motivation: The Shape of a Curve        Definition: Local Extrema   A function has       First Derivative Test (Review)   Find the local extrema of .     Concavity   The way \"bends\" is important in local extrema, and is another general property of functions that we can identify using derivatives.       Second Derivative Test   If is a critical point of , then     Definition: Inflection Point   If changes concavity at , then     Example: Concavity   Let .       Practice: Local Extrema and Inflection Points   Find all local extrema and inflections points of .     "
+},
+{
+  "id": "sec-VI-2-2-1",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: The Shape of a Curve.",
+  "body": " Motivation: The Shape of a Curve      "
+},
+{
+  "id": "sec-VI-2-2-2",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Local Extrema.",
+  "body": " Definition: Local Extrema   A function has   "
+},
+{
+  "id": "sec-VI-2-3-1",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "First Derivative Test (Review).",
+  "body": " First Derivative Test (Review)   Find the local extrema of .   "
+},
+{
+  "id": "sec-VI-2-3-2",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-3-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Concavity.",
+  "body": " Concavity   The way \"bends\" is important in local extrema, and is another general property of functions that we can identify using derivatives.   "
+},
+{
+  "id": "sec-VI-2-4-1",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Second Derivative Test.",
+  "body": " Second Derivative Test   If is a critical point of , then   "
+},
+{
+  "id": "sec-VI-2-4-2",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-4-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Definition: Inflection Point.",
+  "body": " Definition: Inflection Point   If changes concavity at , then   "
+},
+{
+  "id": "sec-VI-2-4-3",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-4-3",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Example: Concavity.",
+  "body": " Example: Concavity   Let .   "
+},
+{
+  "id": "sec-VI-2-5-1",
+  "level": "2",
+  "url": "sec-VI-2.html#sec-VI-2-5-1",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "Practice: Local Extrema and Inflection Points.",
+  "body": " Practice: Local Extrema and Inflection Points   Find all local extrema and inflections points of .   "
 }
 ]
 
