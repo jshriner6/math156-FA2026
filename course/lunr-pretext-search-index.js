@@ -1996,7 +1996,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet",
   "number": "",
   "title": "<span class=\"process-math\">\\(\\S V.7\\text{:}\\)<\/span> The Derivative as a Function",
-  "body": " : The Derivative as a Function    Motivation: The Derivative Function        Review and Notation   Let's review some derivative functions we already know, and introduce new notation.     Example: Notation   Notation is important for identifying the variable we are taking the derivative with respect to.       Practice: Derivative Functions    For given below, sketch a rough graph of .   Graph of f of x, which is a polynomial that increases, then decreases, then increases.       If , compute .      If , compute .             "
+  "body": " : The Derivative as a Function    Motivation: The Derivative Function        Review and Notation   Let's review some derivative functions we already know, and introduce new notation.     Example: Notation   Notation is important for identifying the variable we are taking the derivative with respect to.       Practice: Derivative Functions    For given below, sketch a rough graph of .   Graph of f of x, which increases, then decreases at an increasing rate, then decreasing rate.       If , compute .      If , compute .             "
 },
 {
   "id": "sec-V-7-2-1",
@@ -2032,7 +2032,7 @@ var ptx_lunr_docs = [
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Practice: Derivative Functions.",
-  "body": " Practice: Derivative Functions    For given below, sketch a rough graph of .   Graph of f of x, which is a polynomial that increases, then decreases, then increases.       If , compute .      If , compute .           "
+  "body": " Practice: Derivative Functions    For given below, sketch a rough graph of .   Graph of f of x, which increases, then decreases at an increasing rate, then decreasing rate.       If , compute .      If , compute .           "
 },
 {
   "id": "sec-V-8",
