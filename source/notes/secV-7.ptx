@@ -43,8 +43,8 @@
                             <p>
                                 For <m>f(x)</m> given below, sketch a rough graph of <m>f'(x)</m>.
                             </p>
-                                <image source="graphf.jpeg" width="75%">
-                                    <shortdescription>Graph of f of x, which is a polynomial that increases, then decreases, then increases.</shortdescription>
+                                <image source="graphf.png" width="75%">
+                                    <shortdescription>Graph of f of x, which increases, then decreases at an increasing rate, then decreasing rate.</shortdescription>
                                 </image>
                             
                         </statement>

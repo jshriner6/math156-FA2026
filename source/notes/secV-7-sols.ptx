@@ -76,16 +76,18 @@
                             <p>
                                 For <m>f(x)</m> given below, sketch a rough graph of <m>f'(x)</m>.
                             </p>
-                                <image source="graphf.jpeg" width="75%">
-                                    <shortdescription>Graph of f of x, which is a polynomial that increases, then decreases, then increases.</shortdescription>
+                                <image source="graphf.png" width="75%">
+                                    <shortdescription>Graph of f of x, which increases, then decreases at an increasing rate, then decreasing rate.</shortdescription>
                                 </image>
                             
                         </statement>
                         <solution>
                             <p>
-                                <m>f'(x)</m> should be an upward opening parabola with zeros at input values coinciding to the maximum
-                                and minimum values of <m>f</m>.
+                                <m>f'(x)</m> should look like the dotted graph below.
                             </p>
+                            <image source="graphfprime.png" width="75%">
+                                    <shortdescription>Graph of f and f prime.</shortdescription>
+                                </image>
                         </solution>
                     </task>
                     <task workspace="1in">
