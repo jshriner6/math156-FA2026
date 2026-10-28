@@ -27,10 +27,10 @@
                     </statement>
                     <solution>
                         <p>
-                            If <m>f'(x_0) \gt 0</m>, then <m>f(x)</m> is increasing at <m>x_0</m>.
+                            If <m>f'(x_0) \gt 0</m>, then <m>f(x)</m> is increasing around <m>x_0</m>.
                         </p>
                         <p>
-                            If <m>f'(x_0) \lt 0</m>, then <m>f(x)</m> is decreasing at <m>x_0</m>.
+                            If <m>f'(x_0) \lt 0</m>, then <m>f(x)</m> is decreasing around <m>x_0</m>.
                         </p>
                     </solution>
                     

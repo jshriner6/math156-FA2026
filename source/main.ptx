@@ -144,7 +144,7 @@
   <xi:include href="./notes/secV-10-sols.ptx"/>
 
   <xi:include href="./notes/secVI-1.ptx"/>
-  <!-- <xi:include href="./notes/secVI-1-sols.ptx"/> -->
+ <!--  <xi:include href="./notes/secVI-1-sols.ptx"/> -->
 
   <xi:include href="./notes/secVI-2.ptx"/>
  <!-- <xi:include href="./notes/secVI-2-sols.ptx"/> -->
