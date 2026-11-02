@@ -2260,85 +2260,85 @@ var ptx_lunr_docs = [
   "body": " Practice: Increasing\/Decreasing   Describe where is increasing and decreasing.    We can compute , and notice that when , and does not exist for (which is in the domain of ). So the critical points of are at .  Using a first derivative sign chart as shown in class, we find that the first derivative is positive on and , and negative on . Therefore, the function increases on and , and decreases on .   "
 },
 {
-  "id": "sec-VI-2",
+  "id": "sec-VI-2-sols",
   "level": "1",
-  "url": "sec-VI-2.html",
+  "url": "sec-VI-2-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S VI.2\\text{:}\\)<\/span> The Shape of a Curve",
-  "body": " : The Shape of a Curve    Motivation: The Shape of a Curve        Definition: Local Extrema   A function has       First Derivative Test (Review)   Find the local extrema of .     Concavity   The way \"bends\" is important in local extrema, and is another general property of functions that we can identify using derivatives.       Second Derivative Test   If is a critical point of , then     Definition: Inflection Point   If changes concavity at , then     Example: Concavity   Let .       Practice: Local Extrema and Inflection Points   Find all local extrema and inflections points of .     "
+  "title": "<span class=\"process-math\">\\(\\S VI.2\\text{:}\\)<\/span> The Shape of a Curve (Complete)",
+  "body": " : The Shape of a Curve (Complete)    Motivation: The Shape of a Curve       We've seen is useful for describing where increases and decreases. What other properties can derivatives help us identify?     Definition: Local Extrema   A function has       a local maximum at if for all close to .    a local minimum at if for all close to .     We've seen that local extrema are critical points, but not all critical points are local extrema. So the general strategy for finding local extrema of is to identify all critical points of , and then find a way to test these critical points.       First Derivative Test (Review)   Find the local extrema of .    We compute , and then find that when . Setting up a first derivative sign chart as in class shows us that increases on , decreases on , and increases on . This means that is a local max, while is a local min.     Concavity   The way \"bends\" is important in local extrema, and is another general property of functions that we can identify using derivatives.    If , this means the first derivative is increasing at . In , this produces some portion of a \"U\" shape. We say is concave up at values where this is true.  If , this means the first derivative is decreasing at . In , this produces some portion of an upside down \"U\" shape. We say is concave down at values where this is true.       Second Derivative Test   If is a critical point of , then       If , then is a local minimum.    If , then is a local maximum.    If , then this test is inconclusive. Use the first derivative test.        Definition: Inflection Point   If changes concavity at , then    the point is an inflection point .     Example: Concavity   Let .    We can compute to find that are critical points of . We can compute to see that , when , so these are potential inflection points of .  Setting up a second derivative sign chart similar to in class, we see that is positive on and , and negative on . Therefore, is concave up on and , and concave down on . This means that are both inflection points of .       Practice: Local Extrema and Inflection Points   Find all local extrema and inflections points of .    We compute , so is a critical point. Using the first derivative test, we can classify as a local minimum of .  We compute , so is a potential inflection point. To test, we can set up a second derivative sign chart to see that is concave down on , and concave up on . Therefore, is an inflection point of .     "
 },
 {
-  "id": "sec-VI-2-2-1",
+  "id": "sec-VI-2-sols-2-1",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-2-1",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: The Shape of a Curve.",
-  "body": " Motivation: The Shape of a Curve      "
+  "body": " Motivation: The Shape of a Curve       We've seen is useful for describing where increases and decreases. What other properties can derivatives help us identify?   "
 },
 {
-  "id": "sec-VI-2-2-2",
+  "id": "sec-VI-2-sols-2-2",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-2-2",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Definition: Local Extrema.",
-  "body": " Definition: Local Extrema   A function has   "
+  "body": " Definition: Local Extrema   A function has       a local maximum at if for all close to .    a local minimum at if for all close to .     We've seen that local extrema are critical points, but not all critical points are local extrema. So the general strategy for finding local extrema of is to identify all critical points of , and then find a way to test these critical points.   "
 },
 {
-  "id": "sec-VI-2-3-1",
+  "id": "sec-VI-2-sols-3-1",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-3-1",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "First Derivative Test (Review).",
-  "body": " First Derivative Test (Review)   Find the local extrema of .   "
+  "body": " First Derivative Test (Review)   Find the local extrema of .    We compute , and then find that when . Setting up a first derivative sign chart as in class shows us that increases on , decreases on , and increases on . This means that is a local max, while is a local min.   "
 },
 {
-  "id": "sec-VI-2-3-2",
+  "id": "sec-VI-2-sols-3-2",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-3-2",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-3-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Concavity.",
-  "body": " Concavity   The way \"bends\" is important in local extrema, and is another general property of functions that we can identify using derivatives.   "
+  "body": " Concavity   The way \"bends\" is important in local extrema, and is another general property of functions that we can identify using derivatives.    If , this means the first derivative is increasing at . In , this produces some portion of a \"U\" shape. We say is concave up at values where this is true.  If , this means the first derivative is decreasing at . In , this produces some portion of an upside down \"U\" shape. We say is concave down at values where this is true.   "
 },
 {
-  "id": "sec-VI-2-4-1",
+  "id": "sec-VI-2-sols-4-1",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-4-1",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-4-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "Second Derivative Test.",
-  "body": " Second Derivative Test   If is a critical point of , then   "
+  "body": " Second Derivative Test   If is a critical point of , then       If , then is a local minimum.    If , then is a local maximum.    If , then this test is inconclusive. Use the first derivative test.      "
 },
 {
-  "id": "sec-VI-2-4-2",
+  "id": "sec-VI-2-sols-4-2",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-4-2",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-4-2",
   "type": "Worksheet Exercise",
   "number": "6",
   "title": "Definition: Inflection Point.",
-  "body": " Definition: Inflection Point   If changes concavity at , then   "
+  "body": " Definition: Inflection Point   If changes concavity at , then    the point is an inflection point .   "
 },
 {
-  "id": "sec-VI-2-4-3",
+  "id": "sec-VI-2-sols-4-3",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-4-3",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-4-3",
   "type": "Worksheet Exercise",
   "number": "7",
   "title": "Example: Concavity.",
-  "body": " Example: Concavity   Let .   "
+  "body": " Example: Concavity   Let .    We can compute to find that are critical points of . We can compute to see that , when , so these are potential inflection points of .  Setting up a second derivative sign chart similar to in class, we see that is positive on and , and negative on . Therefore, is concave up on and , and concave down on . This means that are both inflection points of .   "
 },
 {
-  "id": "sec-VI-2-5-1",
+  "id": "sec-VI-2-sols-5-1",
   "level": "2",
-  "url": "sec-VI-2.html#sec-VI-2-5-1",
+  "url": "sec-VI-2-sols.html#sec-VI-2-sols-5-1",
   "type": "Worksheet Exercise",
   "number": "8",
   "title": "Practice: Local Extrema and Inflection Points.",
-  "body": " Practice: Local Extrema and Inflection Points   Find all local extrema and inflections points of .   "
+  "body": " Practice: Local Extrema and Inflection Points   Find all local extrema and inflections points of .    We compute , so is a critical point. Using the first derivative test, we can classify as a local minimum of .  We compute , so is a potential inflection point. To test, we can set up a second derivative sign chart to see that is concave down on , and concave up on . Therefore, is an inflection point of .   "
 },
 {
   "id": "sec-VI-3",
@@ -2591,6 +2591,168 @@ var ptx_lunr_docs = [
   "number": "7",
   "title": "Big OH as a Relation.",
   "body": " Big OH as a Relation   Let be the set of functions on , and define the relation on by if and only if and . Then   "
+},
+{
+  "id": "sec-VII-1",
+  "level": "1",
+  "url": "sec-VII-1.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S VII.1\\text{:}\\)<\/span> Taylor Polynomials",
+  "body": " : Taylor Polynomials    Motivation: Taylor Polynomials        Definition: Taylor Polynomial at   Let be a continuously differentiable function. The degree Taylor polynomial of centered at is       Example: Taylor Polynomial   Let .     Practice: Taylor Polynomial   Let . Compute .       Definition: Taylor Polynomials with arbitrary center   We can center Taylor polynomials at any -value. Recall that the tangent line to at is . The degree Taylor polynomial of centered at  is     Example: Taylor polynomial   Let .       Practice: Taylor Polynomial   Compute the order Taylor polynomial of centered at .     "
+},
+{
+  "id": "sec-VII-1-2-1",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Taylor Polynomials.",
+  "body": " Motivation: Taylor Polynomials      "
+},
+{
+  "id": "sec-VII-1-2-2",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Taylor Polynomial at <span class=\"process-math\">\\(x=0\\)<\/span>.",
+  "body": " Definition: Taylor Polynomial at   Let be a continuously differentiable function. The degree Taylor polynomial of centered at is   "
+},
+{
+  "id": "sec-VII-1-3-1",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Example: Taylor Polynomial.",
+  "body": " Example: Taylor Polynomial   Let .   "
+},
+{
+  "id": "sec-VII-1-3-2",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-3-2",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Practice: Taylor Polynomial.",
+  "body": " Practice: Taylor Polynomial   Let . Compute .   "
+},
+{
+  "id": "sec-VII-1-4-1",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-4-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Definition: Taylor Polynomials with arbitrary center.",
+  "body": " Definition: Taylor Polynomials with arbitrary center   We can center Taylor polynomials at any -value. Recall that the tangent line to at is . The degree Taylor polynomial of centered at  is   "
+},
+{
+  "id": "sec-VII-1-4-2",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-4-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Example: Taylor polynomial.",
+  "body": " Example: Taylor polynomial   Let .   "
+},
+{
+  "id": "sec-VII-1-5-1",
+  "level": "2",
+  "url": "sec-VII-1.html#sec-VII-1-5-1",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Practice: Taylor Polynomial.",
+  "body": " Practice: Taylor Polynomial   Compute the order Taylor polynomial of centered at .   "
+},
+{
+  "id": "sec-VII-2",
+  "level": "1",
+  "url": "sec-VII-2.html",
+  "type": "Worksheet",
+  "number": "",
+  "title": "<span class=\"process-math\">\\(\\S VII.2\\text{:}\\)<\/span> Taylor Series",
+  "body": " : Taylor Series    Motivation: Taylor Series        Definition: Taylor Series   Given a function , the Taylor series of centered at is       Convergence of Taylor Series   Let be a Taylor series. Then one of the following hold:       Practice: Taylor Series of Common Functions   Let's compute the Taylor series of some common functions.                        Properties of Taylor Series   We can combine Taylor series of functions in meaningful ways to get Taylor series of new functions. Let and .     Example: A new Taylor series   We know .       Practice: New Taylor series   Let's find the Taylor series for , given that we know .     Write the Taylor series for using composition.      Write the Taylor series for .      Write the Taylor series for .      Example: New Taylor series           Application: Euler's Formula   One very useful application of Taylor series is that it helps us derive Euler's formula: .     "
+},
+{
+  "id": "sec-VII-2-2-1",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-2-1",
+  "type": "Worksheet Exercise",
+  "number": "1",
+  "title": "Motivation: Taylor Series.",
+  "body": " Motivation: Taylor Series      "
+},
+{
+  "id": "sec-VII-2-2-2",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-2-2",
+  "type": "Worksheet Exercise",
+  "number": "2",
+  "title": "Definition: Taylor Series.",
+  "body": " Definition: Taylor Series   Given a function , the Taylor series of centered at is   "
+},
+{
+  "id": "sec-VII-2-3-1",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-3-1",
+  "type": "Worksheet Exercise",
+  "number": "3",
+  "title": "Convergence of Taylor Series.",
+  "body": " Convergence of Taylor Series   Let be a Taylor series. Then one of the following hold:   "
+},
+{
+  "id": "sec-VII-2-4-1",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-4-1",
+  "type": "Worksheet Exercise",
+  "number": "4",
+  "title": "Practice: Taylor Series of Common Functions.",
+  "body": " Practice: Taylor Series of Common Functions   Let's compute the Taylor series of some common functions.                    "
+},
+{
+  "id": "sec-VII-2-5-1",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-5-1",
+  "type": "Worksheet Exercise",
+  "number": "5",
+  "title": "Properties of Taylor Series.",
+  "body": " Properties of Taylor Series   We can combine Taylor series of functions in meaningful ways to get Taylor series of new functions. Let and .   "
+},
+{
+  "id": "sec-VII-2-5-2",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-5-2",
+  "type": "Worksheet Exercise",
+  "number": "6",
+  "title": "Example: A new Taylor series.",
+  "body": " Example: A new Taylor series   We know .   "
+},
+{
+  "id": "sec-VII-2-6-1",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-6-1",
+  "type": "Worksheet Exercise",
+  "number": "7",
+  "title": "Practice: New Taylor series.",
+  "body": " Practice: New Taylor series   Let's find the Taylor series for , given that we know .     Write the Taylor series for using composition.      Write the Taylor series for .      Write the Taylor series for .    "
+},
+{
+  "id": "sec-VII-2-6-2",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-6-2",
+  "type": "Worksheet Exercise",
+  "number": "8",
+  "title": "Example: New Taylor series.",
+  "body": " Example: New Taylor series       "
+},
+{
+  "id": "sec-VII-2-7-1",
+  "level": "2",
+  "url": "sec-VII-2.html#sec-VII-2-7-1",
+  "type": "Worksheet Exercise",
+  "number": "9",
+  "title": "Application: Euler’s Formula.",
+  "body": " Application: Euler's Formula   One very useful application of Taylor series is that it helps us derive Euler's formula: .   "
 }
 ]
 
