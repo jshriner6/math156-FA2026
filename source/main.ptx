@@ -151,8 +151,8 @@
 
 
   <!-- WEEK 11 -->
-  <xi:include href="./notes/secVI-3.ptx"/>
- <!-- <xi:include href="./notes/secVI-3-sols.ptx"/> -->
+  <!--<xi:include href="./notes/secVI-3.ptx"/>-->
+  <xi:include href="./notes/secVI-3-sols.ptx"/> 
 
   <xi:include href="./notes/secVI-4.ptx"/>
   <!--<xi:include href="./notes/secVI-4-sols.ptx"/>-->
