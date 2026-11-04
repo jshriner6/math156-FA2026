@@ -2422,103 +2422,103 @@ var ptx_lunr_docs = [
   "body": " Practice: Application   You need to design a box with a square base and open top whose volume is 864 cubic inches. What is the minimum surface area of such a box?    The surface area equation is with the condition that . This means we can write , with the relevant interval for being . We can compute , so critical numbers of are , but we can ignore . We can test using the first derivative test to conclude that it is a local minimum. Since it is the only critical number in , it is also the location of an absolute minimum. Therefore, the minimum surface area is square inches.   "
 },
 {
-  "id": "sec-VI-4",
+  "id": "sec-VI-4-sols",
   "level": "1",
-  "url": "sec-VI-4.html",
+  "url": "sec-VI-4-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S VI.4\\text{:}\\)<\/span> Newton’s Method",
-  "body": " : Newton's Method    Motivation: Newton's Method        Example: Approximating   We'd like to approximate a solution to .       Newton's Method   To approximate solutions to , we can compute a sequence of approximations by     Practice: Newton's Method   Use Newton's method to approximate solutions to the following with three iterations (that is, compute ).                 "
+  "title": "<span class=\"process-math\">\\(\\S VI.4\\text{:}\\)<\/span> Newton’s Method (Complete)",
+  "body": " : Newton's Method (Complete)    Motivation: Newton's Method       Recall, the Intermediate Value Theorem gave us a method for approximating zeros of functions using bisection, but it was slow! Using derivatives, we can do better.     Example: Approximating   We'd like to approximate a solution to .    See notes from class. Using Newton's method (with equations of tangent lines), we get an approximation of after just two iterations!       Newton's Method   To approximate solutions to , we can compute a sequence of approximations by       Choosing close to . The Intermediate Value Theorem is often useful.    If is your current approximation, then . This comes from finding the zero of the equation of the tangent line to at .        Practice: Newton's Method   Use Newton's method to approximate solutions to the following with three iterations (that is, compute ).                   See notes from class. After three iterations, we get . Compare this to .    See notes from class. After three iterations, we get . Compare this to .        "
 },
 {
-  "id": "sec-VI-4-2-1",
+  "id": "sec-VI-4-sols-2-1",
   "level": "2",
-  "url": "sec-VI-4.html#sec-VI-4-2-1",
+  "url": "sec-VI-4-sols.html#sec-VI-4-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: Newton’s Method.",
-  "body": " Motivation: Newton's Method      "
+  "body": " Motivation: Newton's Method       Recall, the Intermediate Value Theorem gave us a method for approximating zeros of functions using bisection, but it was slow! Using derivatives, we can do better.   "
 },
 {
-  "id": "sec-VI-4-2-2",
+  "id": "sec-VI-4-sols-2-2",
   "level": "2",
-  "url": "sec-VI-4.html#sec-VI-4-2-2",
+  "url": "sec-VI-4-sols.html#sec-VI-4-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Example: Approximating <span class=\"process-math\">\\(\\pi\\)<\/span>.",
-  "body": " Example: Approximating   We'd like to approximate a solution to .   "
+  "body": " Example: Approximating   We'd like to approximate a solution to .    See notes from class. Using Newton's method (with equations of tangent lines), we get an approximation of after just two iterations!   "
 },
 {
-  "id": "sec-VI-4-3-1",
+  "id": "sec-VI-4-sols-3-1",
   "level": "2",
-  "url": "sec-VI-4.html#sec-VI-4-3-1",
+  "url": "sec-VI-4-sols.html#sec-VI-4-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "Newton’s Method.",
-  "body": " Newton's Method   To approximate solutions to , we can compute a sequence of approximations by   "
+  "body": " Newton's Method   To approximate solutions to , we can compute a sequence of approximations by       Choosing close to . The Intermediate Value Theorem is often useful.    If is your current approximation, then . This comes from finding the zero of the equation of the tangent line to at .      "
 },
 {
-  "id": "sec-VI-4-3-2",
+  "id": "sec-VI-4-sols-3-2",
   "level": "2",
-  "url": "sec-VI-4.html#sec-VI-4-3-2",
+  "url": "sec-VI-4-sols.html#sec-VI-4-sols-3-2",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Practice: Newton’s Method.",
-  "body": " Practice: Newton's Method   Use Newton's method to approximate solutions to the following with three iterations (that is, compute ).               "
+  "body": " Practice: Newton's Method   Use Newton's method to approximate solutions to the following with three iterations (that is, compute ).                   See notes from class. After three iterations, we get . Compare this to .    See notes from class. After three iterations, we get . Compare this to .      "
 },
 {
-  "id": "sec-VI-5",
+  "id": "sec-VI-5-sols",
   "level": "1",
-  "url": "sec-VI-5.html",
+  "url": "sec-VI-5-sols.html",
   "type": "Worksheet",
   "number": "",
-  "title": "<span class=\"process-math\">\\(\\S VI.5\\text{:}\\)<\/span> L’Hospital’s Rule",
-  "body": " : L'Hospital's Rule    Motivation: L'Hospital's Rule        Limit Notation (Review)        L'Hospital's Rule   Let and be differentiable functions. If then       Example: L'Hospital's Rule                      Practice: L'Hospital's Rule                                        "
+  "title": "<span class=\"process-math\">\\(\\S VI.5\\text{:}\\)<\/span> L’Hospital’s Rule (Complete)",
+  "body": " : L'Hospital's Rule (Complete)    Motivation: L'Hospital's Rule       Derivatives are defined by a limit. They can also help us evaluate certain limits, which is the application explored in this section.     Limit Notation (Review)       Recall that we can use limit notation to describe the end behavior of functions, as well as when functions grow arbitrarily large or small. For example,                           L'Hospital's Rule   Let and be differentiable functions. If then     , provided this limit exists or is .       Example: L'Hospital's Rule                                      Practice: L'Hospital's Rule                                                (Note: LH rule does not apply)                            "
 },
 {
-  "id": "sec-VI-5-2-1",
+  "id": "sec-VI-5-sols-2-1",
   "level": "2",
-  "url": "sec-VI-5.html#sec-VI-5-2-1",
+  "url": "sec-VI-5-sols.html#sec-VI-5-sols-2-1",
   "type": "Worksheet Exercise",
   "number": "1",
   "title": "Motivation: L’Hospital’s Rule.",
-  "body": " Motivation: L'Hospital's Rule      "
+  "body": " Motivation: L'Hospital's Rule       Derivatives are defined by a limit. They can also help us evaluate certain limits, which is the application explored in this section.   "
 },
 {
-  "id": "sec-VI-5-2-2",
+  "id": "sec-VI-5-sols-2-2",
   "level": "2",
-  "url": "sec-VI-5.html#sec-VI-5-2-2",
+  "url": "sec-VI-5-sols.html#sec-VI-5-sols-2-2",
   "type": "Worksheet Exercise",
   "number": "2",
   "title": "Limit Notation (Review).",
-  "body": " Limit Notation (Review)      "
+  "body": " Limit Notation (Review)       Recall that we can use limit notation to describe the end behavior of functions, as well as when functions grow arbitrarily large or small. For example,                         "
 },
 {
-  "id": "sec-VI-5-2-3",
+  "id": "sec-VI-5-sols-2-3",
   "level": "2",
-  "url": "sec-VI-5.html#sec-VI-5-2-3",
+  "url": "sec-VI-5-sols.html#sec-VI-5-sols-2-3",
   "type": "Worksheet Exercise",
   "number": "3",
   "title": "L’Hospital’s Rule.",
-  "body": " L'Hospital's Rule   Let and be differentiable functions. If then   "
+  "body": " L'Hospital's Rule   Let and be differentiable functions. If then     , provided this limit exists or is .   "
 },
 {
-  "id": "sec-VI-5-3-1",
+  "id": "sec-VI-5-sols-3-1",
   "level": "2",
-  "url": "sec-VI-5.html#sec-VI-5-3-1",
+  "url": "sec-VI-5-sols.html#sec-VI-5-sols-3-1",
   "type": "Worksheet Exercise",
   "number": "4",
   "title": "Example: L’Hospital’s Rule.",
-  "body": " Example: L'Hospital's Rule                  "
+  "body": " Example: L'Hospital's Rule                                  "
 },
 {
-  "id": "sec-VI-5-4-1",
+  "id": "sec-VI-5-sols-4-1",
   "level": "2",
-  "url": "sec-VI-5.html#sec-VI-5-4-1",
+  "url": "sec-VI-5-sols.html#sec-VI-5-sols-4-1",
   "type": "Worksheet Exercise",
   "number": "5",
   "title": "Practice: L’Hospital’s Rule.",
-  "body": " Practice: L'Hospital's Rule                                      "
+  "body": " Practice: L'Hospital's Rule                                                (Note: LH rule does not apply)                          "
 },
 {
   "id": "sec-VI-6",
