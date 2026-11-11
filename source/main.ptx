@@ -169,8 +169,8 @@
 <!--<xi:include href="./notes/secVII-1.ptx"/>-->
 <xi:include href="./notes/secVII-1-sols.ptx"/> 
 
-<xi:include href="./notes/secVII-2.ptx"/>
-<!--<xi:include href="./notes/secVII-2-sols.ptx"/> -->
+<!--<xi:include href="./notes/secVII-2.ptx"/>-->
+<xi:include href="./notes/secVII-2-sols.ptx"/> 
 
 <!-- WEEK 13 -->
 
